@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical" >
+    <RelativeLayout
+        android:id="@+id/rl_recommand_app"
+        android:layout_width="match_parent"
+        android:layout_height="@dimen/recommand_rl_height"
+        android:background="@drawable/setting_bg_selector" >
+
+        <ImageView
+            android:id="@+id/iv_logo_recommand"
+            android:layout_width="@dimen/recommand_rl_app_logo_width_height"
+            android:layout_height="@dimen/recommand_rl_app_logo_width_height"
+            android:layout_alignParentLeft="true"
+            android:layout_centerVertical="true"
+            android:layout_marginLeft="@dimen/recommend_item_icon_to_left"
+           />
+
+        <LinearLayout
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_toRightOf="@id/iv_logo_recommand"
+                android:layout_centerVertical="true"
+                android:orientation="vertical"
+            >
+
+            <TextView
+                android:id="@+id/tv_app_name_recommand"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="20dip"
+                android:text="@string/yinxiang"
+                android:textColor="#313131"
+                android:textSize="16sp" />
+            <TextView
+                android:id="@+id/tv_app_desc_recommand"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="20dip"
+                android:layout_marginRight="50dip"
+                android:text="@string/yinxiang"
+                android:textColor="#a2a2a2"
+                android:textSize="@dimen/recommend_tv_desc" />
+        </LinearLayout>
+
+        <ImageView
+            android:id="@+id/bt_app_recommand_status"
+            android:layout_width="34dip"
+            android:layout_height="34dip"
+            android:layout_alignParentRight="true"
+            android:layout_centerVertical="true"
+            android:layout_marginRight="@dimen/recommend_item_icon_to_left"
+            android:background="@drawable/yingyongtuijian_download" />
+    </RelativeLayout>
+
+</LinearLayout>

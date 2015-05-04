@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="grey">#d2d2d2</color>
+    <color name="normal">#4bc1d2</color>
+    <color name="confirm_text_color">#434343</color>
+    <color name="about_us_appname">#595959</color>
+    <color name="about_us_version">#808080</color>
+    <color name="devider">#c8c7cc</color>
+    <color name="title">#424242</color>
+    <color name="header_bg">#f1f1f1</color>
+    
+</resources>

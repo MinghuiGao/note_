@@ -1,0 +1,78 @@
+<resources>
+
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+    <!-- activity_main -->
+    <dimen name="am_textsize">18sp</dimen>
+    <dimen name="am_bt_bottom_feature_width">45dp</dimen>
+    <dimen name="am_bt_bottom_feature_height">45dp</dimen>
+    <dimen name="am_ll_bottom_width">-2dip</dimen>
+    <dimen name="am_ll_bottom_height">56dip</dimen>
+
+    <!-- dialog_about_us -->
+    <dimen name="dau_width">305dip</dimen>
+    <dimen name="dau_height">238dip</dimen>
+    <dimen name="dau_padding_top_bottom">8dip</dimen>
+    <dimen name="dau_padding_left_right">15dip</dimen>
+    <dimen name="dau_title_textsize">20sp</dimen>
+    <dimen name="dau_info_textsize">12sp</dimen>
+    <dimen name="dau_bt_back_width">246dip</dimen>
+    <dimen name="dau_bt_back_height">43dip</dimen>
+    <dimen name="dau_bt_back_textsize">18sp</dimen>
+
+    	<!-- recommandation -->
+    <dimen name="recommend_item_icon_to_left">17dip</dimen>
+    
+    <!-- evernote dialog -->
+    <dimen name="evernote_confirm_width">275dp</dimen>
+    <dimen name="evernote_confirm_text_width">265dp</dimen>
+    
+    <!-- item -->
+    <dimen name="i_iv_width">45dip</dimen>
+    <dimen name="i_iv_height">45dip</dimen>
+    <!-- pop_dialog -->
+    <dimen name="pd_width">169dip</dimen>
+    <dimen name="pd_height">147dip</dimen>
+    <dimen name="pd_iv_face_width">34dip</dimen>
+    <dimen name="pd_iv_face_height">34dip</dimen>
+<!--     <dimen name="pd_tv_message_textsize">12sp</dimen> -->
+    <!-- pop -->
+    <dimen name="pop_bt_cancle_textsize">46dip</dimen>
+
+    <!-- settings -->
+    <dimen name="settings_header_height">50dip</dimen>
+    <dimen name="settings_header_iv_setting_back_width">30dip</dimen>
+    <dimen name="settings_header_iv_setting_back_height">30dip</dimen>
+    <dimen name="settings_header_tv_header_textsize">18sp</dimen>
+    <dimen name="settings_ll_blank_top_height">48dip</dimen>
+    <dimen name="settings_ll_blank_top_textsize">14sp</dimen>
+    <dimen name="settings_rl_bind_yinxiang_height">49dip</dimen>
+    <dimen name="settings_rl_bind_yinxiang_iv_logo_width">33dip</dimen>
+    <dimen name="settings_rl_bind_yinxiang_iv_logo_height">33dip</dimen>
+    <dimen name="settings_rl_bind_yinxiang_tv_logo_info_textsize">14sp</dimen>
+    <dimen name="settings_rl_bind_yinxiang_bt_logo_next_width">30dip</dimen>
+    <dimen name="settings_rl_bind_yinxiang_bt_logo_next_height">30dip</dimen>
+    <dimen name="settings_ll_blank_mid_height">31dip</dimen>
+    <dimen name="settings_rl_about_us_height">49dip</dimen>
+    <dimen name="settings_rl_about_us_tv_logo_info_textsize">14sp</dimen>
+    <dimen name="settings_rl_about_us_tv_bt_logo_next_width">30dip</dimen>
+    <dimen name="settings_rl_about_us_tv_bt_logo_next_height">30dip</dimen>
+	<dimen name="recommand_rl_height">69dip</dimen>
+    <!-- tape2 -->
+    <dimen name="t_header_height">50dip</dimen>
+    <dimen name="t_header_textsize">16sp</dimen>
+    <dimen name="t_et_content_textsize">16sp</dimen>
+    <dimen name="t_bt_tape_width">16sp</dimen>
+    <dimen name="t_bt_tape_height">16sp</dimen>
+    <dimen name="t_iv_tape_normal_height">56dip</dimen>
+    <dimen name="t_iv_tape_normal_width">90dip</dimen>
+    <dimen name="t_ll_bottom_height">56dip</dimen>
+    <!-- bottom button width and height -->
+    <dimen name="t_ll_bottom_bt_width_height">45dip</dimen>
+    <!-- the tape and loading circle -->
+    <dimen name="t_ll_bottom_bt_tape_width_height">40dip</dimen>
+
+    <dimen name="divider_height">2px</dimen>
+    <dimen name="recommend_tv_desc">13sp</dimen>
+    
+</resources>
