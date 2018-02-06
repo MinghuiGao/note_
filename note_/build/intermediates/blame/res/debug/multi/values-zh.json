@@ -1,0 +1,369 @@
+[
+    {
+        "outputFile": "/home/gaomh/git_spaces/RxAndroidDemo/note_/build/intermediates/incremental/mergeDebugResources/merged.dir/values-zh/values-zh.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 44,
+                    "endOffset": 95
+                },
+                "from": {
+                    "file": "/home/gaomh/git_spaces/RxAndroidDemo/note_/src/main/res/values-zh/umeng_update_string.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 100,
+                    "endColumn": 47,
+                    "endOffset": 143
+                },
+                "from": {
+                    "file": "/home/gaomh/git_spaces/RxAndroidDemo/note_/src/main/res/values-zh/umeng_update_string.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4,
+                    "startColumn": 4,
+                    "startOffset": 148,
+                    "endColumn": 61,
+                    "endOffset": 205
+                },
+                "from": {
+                    "file": "/home/gaomh/git_spaces/RxAndroidDemo/note_/src/main/res/values-zh/umeng_update_string.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 5,
+                    "startColumn": 4,
+                    "startOffset": 210,
+                    "endColumn": 56,
+                    "endOffset": 262
+                },
+                "from": {
+                    "file": "/home/gaomh/git_spaces/RxAndroidDemo/note_/src/main/res/values-zh/umeng_update_string.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 6,
+                    "startColumn": 4,
+                    "startOffset": 267,
+                    "endColumn": 41,
+                    "endOffset": 304
+                },
+                "from": {
+                    "file": "/home/gaomh/git_spaces/RxAndroidDemo/note_/src/main/res/values-zh/umeng_update_string.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 7,
+                    "startColumn": 4,
+                    "startOffset": 309,
+                    "endColumn": 47,
+                    "endOffset": 352
+                },
+                "from": {
+                    "file": "/home/gaomh/git_spaces/RxAndroidDemo/note_/src/main/res/values-zh/umeng_update_string.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 8,
+                    "startColumn": 4,
+                    "startOffset": 357,
+                    "endColumn": 41,
+                    "endOffset": 394
+                },
+                "from": {
+                    "file": "/home/gaomh/git_spaces/RxAndroidDemo/note_/src/main/res/values-zh/umeng_update_string.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 9,
+                    "startColumn": 4,
+                    "startOffset": 399,
+                    "endColumn": 47,
+                    "endOffset": 442
+                },
+                "from": {
+                    "file": "/home/gaomh/git_spaces/RxAndroidDemo/note_/src/main/res/values-zh/umeng_update_string.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 10,
+                    "startColumn": 4,
+                    "startOffset": 447,
+                    "endColumn": 56,
+                    "endOffset": 499
+                },
+                "from": {
+                    "file": "/home/gaomh/git_spaces/RxAndroidDemo/note_/src/main/res/values-zh/umeng_update_string.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 11,
+                    "startColumn": 4,
+                    "startOffset": 504,
+                    "endColumn": 56,
+                    "endOffset": 556
+                },
+                "from": {
+                    "file": "/home/gaomh/git_spaces/RxAndroidDemo/note_/src/main/res/values-zh/umeng_update_string.xml",
+                    "position": {
+                        "startLine": 15,
+                        "startColumn": 1,
+                        "startOffset": 667,
+                        "endColumn": 53,
+                        "endOffset": 719
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 12,
+                    "startColumn": 4,
+                    "startOffset": 561,
+                    "endColumn": 48,
+                    "endOffset": 605
+                },
+                "from": {
+                    "file": "/home/gaomh/git_spaces/RxAndroidDemo/note_/src/main/res/values-zh/umeng_update_string.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 13,
+                    "startColumn": 4,
+                    "startOffset": 610,
+                    "endColumn": 44,
+                    "endOffset": 650
+                },
+                "from": {
+                    "file": "/home/gaomh/git_spaces/RxAndroidDemo/note_/src/main/res/values-zh/umeng_update_string.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 14,
+                    "startColumn": 4,
+                    "startOffset": 655,
+                    "endColumn": 47,
+                    "endOffset": 698
+                },
+                "from": {
+                    "file": "/home/gaomh/git_spaces/RxAndroidDemo/note_/src/main/res/values-zh/umeng_update_string.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 15,
+                    "startColumn": 4,
+                    "startOffset": 703,
+                    "endColumn": 47,
+                    "endOffset": 746
+                },
+                "from": {
+                    "file": "/home/gaomh/git_spaces/RxAndroidDemo/note_/src/main/res/values-zh/umeng_update_string.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 16,
+                    "startColumn": 4,
+                    "startOffset": 751,
+                    "endColumn": 57,
+                    "endOffset": 804
+                },
+                "from": {
+                    "file": "/home/gaomh/git_spaces/RxAndroidDemo/note_/src/main/res/values-zh/umeng_common_strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 17,
+                    "startColumn": 4,
+                    "startOffset": 809,
+                    "endColumn": 59,
+                    "endOffset": 864
+                },
+                "from": {
+                    "file": "/home/gaomh/git_spaces/RxAndroidDemo/note_/src/main/res/values-zh/umeng_common_strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 18,
+                    "startColumn": 4,
+                    "startOffset": 869,
+                    "endColumn": 65,
+                    "endOffset": 930
+                },
+                "from": {
+                    "file": "/home/gaomh/git_spaces/RxAndroidDemo/note_/src/main/res/values-zh/umeng_common_strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 19,
+                    "startColumn": 4,
+                    "startOffset": 935,
+                    "endColumn": 56,
+                    "endOffset": 987
+                },
+                "from": {
+                    "file": "/home/gaomh/git_spaces/RxAndroidDemo/note_/src/main/res/values-zh/umeng_common_strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 20,
+                    "startColumn": 4,
+                    "startOffset": 992,
+                    "endColumn": 61,
+                    "endOffset": 1049
+                },
+                "from": {
+                    "file": "/home/gaomh/git_spaces/RxAndroidDemo/note_/src/main/res/values-zh/umeng_common_strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 21,
+                    "startColumn": 4,
+                    "startOffset": 1054,
+                    "endColumn": 67,
+                    "endOffset": 1117
+                },
+                "from": {
+                    "file": "/home/gaomh/git_spaces/RxAndroidDemo/note_/src/main/res/values-zh/umeng_common_strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 22,
+                    "startColumn": 4,
+                    "startOffset": 1122,
+                    "endColumn": 76,
+                    "endOffset": 1194
+                },
+                "from": {
+                    "file": "/home/gaomh/git_spaces/RxAndroidDemo/note_/src/main/res/values-zh/umeng_common_strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 23,
+                    "startColumn": 4,
+                    "startOffset": 1199,
+                    "endColumn": 48,
+                    "endOffset": 1243
+                },
+                "from": {
+                    "file": "/home/gaomh/git_spaces/RxAndroidDemo/note_/src/main/res/values-zh/umeng_common_strings.xml",
+                    "position": {
+                        "startLine": 16,
+                        "startColumn": 1,
+                        "startOffset": 987,
+                        "endColumn": 45,
+                        "endOffset": 1031
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 24,
+                    "startColumn": 4,
+                    "startOffset": 1248,
+                    "endColumn": 71,
+                    "endOffset": 1315
+                },
+                "from": {
+                    "file": "/home/gaomh/git_spaces/RxAndroidDemo/note_/src/main/res/values-zh/umeng_common_strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 25,
+                    "startColumn": 4,
+                    "startOffset": 1320,
+                    "endColumn": 71,
+                    "endOffset": 1387
+                },
+                "from": {
+                    "file": "/home/gaomh/git_spaces/RxAndroidDemo/note_/src/main/res/values-zh/umeng_common_strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 26,
+                    "startColumn": 4,
+                    "startOffset": 1392,
+                    "endColumn": 64,
+                    "endOffset": 1452
+                },
+                "from": {
+                    "file": "/home/gaomh/git_spaces/RxAndroidDemo/note_/src/main/res/values-zh/umeng_common_strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 27,
+                    "startColumn": 4,
+                    "startOffset": 1457,
+                    "endColumn": 71,
+                    "endOffset": 1524
+                },
+                "from": {
+                    "file": "/home/gaomh/git_spaces/RxAndroidDemo/note_/src/main/res/values-zh/umeng_common_strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 28,
+                    "startColumn": 4,
+                    "startOffset": 1529,
+                    "endColumn": 78,
+                    "endOffset": 1603
+                },
+                "from": {
+                    "file": "/home/gaomh/git_spaces/RxAndroidDemo/note_/src/main/res/values-zh/umeng_common_strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 29,
+                    "startColumn": 4,
+                    "startOffset": 1608,
+                    "endColumn": 75,
+                    "endOffset": 1679
+                },
+                "from": {
+                    "file": "/home/gaomh/git_spaces/RxAndroidDemo/note_/src/main/res/values-zh/umeng_common_strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 30,
+                    "startColumn": 4,
+                    "startOffset": 1684,
+                    "endColumn": 73,
+                    "endOffset": 1753
+                },
+                "from": {
+                    "file": "/home/gaomh/git_spaces/RxAndroidDemo/note_/src/main/res/values-zh/umeng_common_strings.xml"
+                }
+            }
+        ]
+    }
+]

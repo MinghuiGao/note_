@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:background="@drawable/tip_bg"
+    android:orientation="vertical">
+
+    <ImageView
+        android:layout_width="50dip"
+        android:layout_height="50dip"
+        android:layout_above="@+id/tv_success_msg"
+        android:layout_centerHorizontal="true"
+        android:src="@drawable/success"
+        tools:ignore="ContentDescription" />
+
+    <TextView
+        android:id="@+id/tv_success_msg"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_centerHorizontal="true"
+        android:layout_centerVertical="true"
+        android:text="chwnffong"
+        tools:ignore="HardcodedText" />
+
+</RelativeLayout>

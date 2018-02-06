@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#ebebeb"
+    android:orientation="vertical">
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="@dimen/settings_header_height"
+        android:background="@color/header_bg">
+
+        <ImageView
+            android:id="@+id/iv_setting_back_recommand"
+            android:layout_width="@dimen/settings_header_iv_setting_back_width"
+            android:layout_height="@dimen/settings_header_iv_setting_back_height"
+            android:layout_alignParentLeft="true"
+            android:layout_centerVertical="true"
+            android:src="@drawable/setting_backward_"
+            tools:ignore="ContentDescription" />
+
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_centerHorizontal="true"
+            android:layout_centerVertical="true"
+            android:text="@string/recommand"
+            android:textColor="@color/title"
+            android:textSize="@dimen/settings_header_tv_header_textsize" />
+    </RelativeLayout>
+
+    <ImageView
+        android:layout_width="match_parent"
+        android:layout_height="@dimen/divider_height"
+        android:background="@color/devider"
+        tools:ignore="ContentDescription" />
+
+    <cn.aiworks.note.view.MyListView
+        android:id="@+id/lv_recommand"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:divider="@color/devider"
+        android:dividerHeight="1px"></cn.aiworks.note.view.MyListView>
+
+    <ImageView
+        android:layout_width="match_parent"
+        android:layout_height="@dimen/divider_height"
+        android:background="@color/devider"
+        tools:ignore="ContentDescription" />
+
+</LinearLayout>

@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/home/gaomh/git_spaces/RxAndroidDemo/note_/build/intermediates/res/merged/debug/drawable-xxhdpi/ic_launcher.png",
+        "source": "/home/gaomh/git_spaces/RxAndroidDemo/note_/src/main/res/drawable-xxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/home/gaomh/git_spaces/RxAndroidDemo/note_/build/intermediates/res/merged/debug/drawable-xxhdpi/logo.png",
+        "source": "/home/gaomh/git_spaces/RxAndroidDemo/note_/src/main/res/drawable-xxhdpi/logo.png"
+    }
+]

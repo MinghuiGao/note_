@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:tools="http://schemas.android.com/tools">
+
+    <string name="app_name" tools:ignore="MissingTranslation">语音输入板</string>
+    <string name="info1" tools:ignore="MissingTranslation">点击麦克风,你说我记~</string>
+    <string name="setting" tools:ignore="MissingTranslation">设 置</string>
+    <string name="bind" tools:ignore="MissingTranslation">去绑定</string>
+    <string name="bind_setting_title" tools:ignore="MissingTranslation">账号绑定</string>
+    <string name="unbind" tools:ignore="MissingTranslation">解除绑定</string>
+    <string name="about_us" tools:ignore="MissingTranslation">关于我们</string>
+    <string name="feedback" tools:ignore="MissingTranslation">意见反馈</string>
+    <string name="feedback_input_mail" tools:ignore="MissingTranslation">您的邮箱</string>
+    <string name="recommand_app" tools:ignore="MissingTranslation">应用推荐</string>
+    <string name="company" tools:ignore="MissingTranslation">思必驰出品</string>
+    <string name="from" tools:ignore="MissingTranslation">思必驰—中国领先的语音技术提供商</string>
+    <string name="confirm" tools:ignore="MissingTranslation">确 定</string>
+    <string name="send" tools:ignore="MissingTranslation">发  送</string>
+    <string name="cancle" tools:ignore="MissingTranslation">取 消</string>
+    <string name="yinxiang" tools:ignore="MissingTranslation">印象笔记</string>
+    <string name="youdao" tools:ignore="MissingTranslation">有道云笔记</string>
+    <string name="sina" tools:ignore="MissingTranslation">新浪微博</string>
+    <string name="recommand" tools:ignore="MissingTranslation">应用推荐</string>
+
+    <string name="unbind_confirm" tools:ignore="MissingTranslation">确实解除绑定？</string>
+
+    <!-- TapeActivity 里地提示语 -->
+    <!-- 无网络提示 -->
+    <string name="network_error" tools:ignore="MissingTranslation">网络不太好哦\n没网络不能干活了…</string>
+    <!-- 识别结束后的提醒 -->
+    <string name="record_success" tools:ignore="MissingTranslation">您的话我都记下了~</string>
+    <!-- 识别结束后的提醒 -->
+    <string name="record_success_share" tools:ignore="MissingTranslation">您的话我都记下了~\n快去分享吧</string>
+    <!-- 识别结束后的提醒 -->
+    <string name="record_fail" tools:ignore="MissingTranslation">网络不太好哦\n没网络不能干活了…</string>
+    <!-- 文本为空时点击分享按钮 -->
+    <string name="text_empty" tools:ignore="MissingTranslation">先说点什么\n才能分享哦</string>
+    <string name="copy_text_empty" tools:ignore="MissingTranslation">先说点什么\n才能拷贝哦</string>
+    <string name="copy_success" tools:ignore="MissingTranslation">复制成功\n♪d(´▽｀)b♪</string>
+    <string name="sms_success" tools:ignore="MissingTranslation">短信发送成功咯~</string>
+    <string name="sms_fail" tools:ignore="MissingTranslation">短信发送失败</string>
+    <string name="evernote_makingnote" tools:ignore="MissingTranslation">保存中…</string>
+    <string name="image_add_none" tools:ignore="MissingTranslation">啊，没有找到图片\n文件不存在</string>
+
+    <!-- evernote -->
+    <string name="error_creating_notestore" tools:ignore="MissingTranslation">啊，创建笔记失败…</string>
+    <string name="esdk__loading" tools:ignore="MissingTranslation">正在加载…</string>
+
+    <string name="share_loading" tools:ignore="MissingTranslation">正在努力为您生成图片，请稍候…</string>
+    <string name="share_to_sina_loading" tools:ignore="MissingTranslation">正在分享，请稍候…</string>
+    <string name="feedback_empty_content" tools:ignore="MissingTranslation">请写下给我们的留言^_^</string>
+    <string name="feedback_empty_email" tools:ignore="MissingTranslation">请留下邮箱^_^</string>
+    <string name="feedback_fail" tools:ignore="MissingTranslation">留言未能发送\n再试一次？</string>
+    <string name="feedback_success" tools:ignore="MissingTranslation">反馈已收到\n感谢支持^_^</string>
+
+    <string name="weibo_space" tools:ignore="MissingTranslation">新浪微博\n不让发空格回车</string>
+    <string name="weibo_share_fail" tools:ignore="MissingTranslation">没能分享到微博\n再试一次~</string>
+    <string name="weibo_share_same" tools:ignore="MissingTranslation">不能发布相同的微博</string>
+    <string name="weibo_share_success" tools:ignore="MissingTranslation">分享微博成功</string>
+    <string name="youdao_uninstalled" tools:ignore="MissingTranslation">尚未安装有道笔记！</string>
+    <string name="weibo_share_fail_140" tools:ignore="MissingTranslation">微博只能说140字，你多说了%d个字…</string>
+    <string name="oauth_fail" tools:ignore="MissingTranslation">啊，授权失败了…</string>
+
+</resources>

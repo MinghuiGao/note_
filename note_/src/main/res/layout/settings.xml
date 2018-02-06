@@ -1,0 +1,390 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#ebebeb"
+    android:orientation="vertical">
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="@dimen/settings_header_height"
+        android:background="@color/header_bg">
+
+        <ImageView
+            android:id="@+id/iv_setting_back"
+            android:layout_width="@dimen/settings_header_iv_setting_back_width"
+            android:layout_height="@dimen/settings_header_iv_setting_back_height"
+            android:layout_alignParentLeft="true"
+            android:layout_centerVertical="true"
+            android:src="@drawable/setting_backward_"
+            tools:ignore="ContentDescription" />
+
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_centerHorizontal="true"
+            android:layout_centerVertical="true"
+            android:text="@string/setting"
+            android:textColor="@color/title"
+            android:textSize="@dimen/settings_header_tv_header_textsize" />
+
+    </RelativeLayout>
+
+    <ImageView
+        android:layout_width="match_parent"
+        android:layout_height="@dimen/divider_height"
+        android:background="@color/devider"
+        tools:ignore="ContentDescription" />
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="@dimen/settings_ll_blank_top_height"
+        android:background="@android:color/transparent"
+        android:orientation="horizontal">
+
+        <TextView
+            android:id="@+id/tv_yinxiang_status"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentBottom="true"
+            android:layout_marginBottom="4dip"
+            android:layout_marginLeft="15dip"
+            android:text="@string/bind_setting_title"
+            android:textColor="#a0a0a0"
+            android:textSize="@dimen/settings_ll_blank_top_textsize" />
+    </RelativeLayout>
+
+    <ImageView
+        android:layout_width="match_parent"
+        android:layout_height="1px"
+        android:background="@color/devider"
+        tools:ignore="ContentDescription" />
+
+    <RelativeLayout
+        android:id="@+id/rl_bind_yinxiang"
+        android:layout_width="match_parent"
+        android:layout_height="@dimen/settings_rl_bind_yinxiang_height"
+        android:background="@drawable/setting_bg_selector">
+
+        <ImageView
+            android:id="@+id/iv_logo"
+            android:layout_width="@dimen/settings_rl_bind_yinxiang_iv_logo_width"
+            android:layout_height="@dimen/settings_rl_bind_yinxiang_iv_logo_height"
+            android:layout_alignParentLeft="true"
+            android:layout_centerVertical="true"
+            android:layout_marginLeft="15dip"
+            android:src="@drawable/yinxiang_logo"
+            tools:ignore="ContentDescription" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_centerVertical="true"
+            android:layout_marginLeft="20dip"
+            android:layout_toRightOf="@id/iv_logo"
+            android:text="@string/yinxiang"
+            android:textColor="#313131"
+            android:textSize="@dimen/settings_rl_bind_yinxiang_tv_logo_info_textsize"
+            tools:ignore="RelativeOverlap" />
+
+        <Button
+            android:id="@+id/bt_logo_next"
+            android:layout_width="@dimen/settings_rl_bind_yinxiang_bt_logo_next_width"
+            android:layout_height="@dimen/settings_rl_bind_yinxiang_bt_logo_next_height"
+            android:layout_alignParentRight="true"
+            android:layout_centerVertical="true"
+            android:layout_marginRight="8dip"
+            android:background="@drawable/setting_next" />
+
+        <TextView
+            android:id="@+id/tv_yinxiang_bind"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_centerVertical="true"
+            android:layout_marginRight="12dip"
+            android:layout_toLeftOf="@id/bt_logo_next"
+            android:text="bind_"
+            android:textColor="@color/normal"
+            android:textSize="@dimen/settings_rl_bind_yinxiang_tv_logo_info_textsize"
+            tools:ignore="HardcodedText" />
+    </RelativeLayout>
+
+    <ImageView
+        android:layout_width="match_parent"
+        android:layout_height="1px"
+        android:background="@color/devider"
+        android:visibility="gone"
+        tools:ignore="ContentDescription" />
+
+    <RelativeLayout
+        android:id="@+id/rl_bind_youdao"
+        android:layout_width="match_parent"
+        android:layout_height="@dimen/settings_rl_bind_yinxiang_height"
+        android:background="@drawable/setting_bg_selector"
+        android:visibility="gone">
+
+        <ImageView
+            android:id="@+id/iv_youdao_logo"
+            android:layout_width="@dimen/settings_rl_bind_yinxiang_iv_logo_width"
+            android:layout_height="@dimen/settings_rl_bind_yinxiang_iv_logo_height"
+            android:layout_alignParentLeft="true"
+            android:layout_centerVertical="true"
+            android:layout_marginLeft="15dip"
+            android:src="@drawable/youdao_logo"
+            tools:ignore="ContentDescription" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_centerVertical="true"
+            android:layout_marginLeft="20dip"
+            android:layout_toRightOf="@id/iv_youdao_logo"
+            android:text="@string/youdao"
+            android:textColor="#313131"
+            android:textSize="@dimen/settings_rl_bind_yinxiang_tv_logo_info_textsize"
+            tools:ignore="RelativeOverlap" />
+
+        <Button
+            android:id="@+id/bt_logo_next_youdao"
+            android:layout_width="@dimen/settings_rl_bind_yinxiang_bt_logo_next_width"
+            android:layout_height="@dimen/settings_rl_bind_yinxiang_bt_logo_next_height"
+            android:layout_alignParentRight="true"
+            android:layout_centerVertical="true"
+            android:layout_marginRight="8dip"
+            android:background="@drawable/setting_next" />
+
+        <TextView
+            android:id="@+id/tv_youdao_bind"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_centerVertical="true"
+            android:layout_marginRight="12dip"
+            android:layout_toLeftOf="@id/bt_logo_next_youdao"
+            android:text="bind_"
+            android:textColor="@color/normal"
+            android:textSize="@dimen/settings_rl_bind_yinxiang_tv_logo_info_textsize"
+            tools:ignore="HardcodedText" />
+    </RelativeLayout>
+
+    <ImageView
+        android:layout_width="match_parent"
+        android:layout_height="1px"
+        android:background="@color/devider"
+        tools:ignore="ContentDescription" />
+
+    <RelativeLayout
+        android:id="@+id/rl_bind_sina"
+        android:layout_width="match_parent"
+        android:layout_height="@dimen/settings_rl_bind_yinxiang_height"
+        android:background="@drawable/setting_bg_selector">
+
+        <ImageView
+            android:id="@+id/iv_logo_sina"
+            android:layout_width="@dimen/settings_rl_bind_yinxiang_iv_logo_width"
+            android:layout_height="@dimen/settings_rl_bind_yinxiang_iv_logo_height"
+            android:layout_alignParentLeft="true"
+            android:layout_centerVertical="true"
+            android:layout_marginLeft="15dip"
+            android:src="@drawable/sina_logo"
+            tools:ignore="ContentDescription" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_centerVertical="true"
+            android:layout_marginLeft="20dip"
+            android:layout_toRightOf="@id/iv_logo_sina"
+            android:text="@string/sina"
+            android:textColor="#313131"
+            android:textSize="@dimen/settings_rl_bind_yinxiang_tv_logo_info_textsize"
+            tools:ignore="RelativeOverlap" />
+
+        <Button
+            android:id="@+id/bt_logo_next_sina"
+            android:layout_width="@dimen/settings_rl_bind_yinxiang_bt_logo_next_width"
+            android:layout_height="@dimen/settings_rl_bind_yinxiang_bt_logo_next_height"
+            android:layout_alignParentRight="true"
+            android:layout_centerVertical="true"
+            android:layout_marginRight="8dip"
+            android:background="@drawable/setting_next" />
+
+        <TextView
+            android:id="@+id/tv_bind_sina"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_centerVertical="true"
+            android:layout_marginRight="12dip"
+            android:layout_toLeftOf="@id/bt_logo_next_sina"
+            android:text="bind_"
+            android:textColor="@color/normal"
+            android:textSize="@dimen/settings_rl_bind_yinxiang_tv_logo_info_textsize"
+            tools:ignore="HardcodedText" />
+    </RelativeLayout>
+
+    <ImageView
+        android:layout_width="match_parent"
+        android:layout_height="1px"
+        android:background="@color/devider"
+        tools:ignore="ContentDescription" />
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="@dimen/settings_ll_blank_mid_height"
+        android:background="@android:color/transparent"
+        android:orientation="horizontal" />
+
+    <ImageView
+        android:layout_width="match_parent"
+        android:layout_height="1px"
+        android:background="@color/devider"
+        tools:ignore="ContentDescription" />
+
+    <RelativeLayout
+        android:id="@+id/rl_app_recommandation"
+        android:layout_width="match_parent"
+        android:layout_height="@dimen/settings_rl_about_us_height"
+        android:background="@drawable/setting_bg_selector">
+
+        <ImageView
+            android:id="@+id/iv_logo_recommand"
+            android:layout_width="@dimen/settings_rl_bind_yinxiang_iv_logo_width"
+            android:layout_height="@dimen/settings_rl_bind_yinxiang_iv_logo_height"
+            android:layout_alignParentLeft="true"
+            android:layout_centerVertical="true"
+            android:layout_marginLeft="15dip"
+            android:src="@drawable/yingyongtuijian_logo"
+            tools:ignore="ContentDescription" />
+
+        <Button
+            android:id="@+id/bt_logo_next_recommand"
+            android:layout_width="@dimen/settings_rl_about_us_tv_bt_logo_next_width"
+            android:layout_height="@dimen/settings_rl_about_us_tv_bt_logo_next_height"
+            android:layout_alignParentRight="true"
+            android:layout_centerVertical="true"
+            android:layout_marginRight="8dip"
+            android:background="@drawable/setting_next"
+            android:clickable="false" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignBaseline="@+id/bt_logo_next_recommand"
+            android:layout_alignBottom="@+id/bt_logo_next_recommand"
+            android:layout_marginLeft="20dp"
+            android:layout_toRightOf="@+id/iv_logo_recommand"
+            android:clickable="false"
+            android:text="@string/recommand_app"
+            android:textColor="#313131"
+            android:textSize="@dimen/settings_rl_about_us_tv_logo_info_textsize"
+            tools:ignore="RelativeOverlap" />
+
+    </RelativeLayout>
+
+    <ImageView
+        android:layout_width="match_parent"
+        android:layout_height="1px"
+        android:background="@color/devider"
+        tools:ignore="ContentDescription" />
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="@dimen/settings_ll_blank_mid_height"
+        android:background="@android:color/transparent"
+        android:orientation="horizontal" />
+
+    <ImageView
+        android:layout_width="match_parent"
+        android:layout_height="1px"
+        android:background="@color/devider"
+        tools:ignore="ContentDescription" />
+
+    <RelativeLayout
+        android:id="@+id/rl_feedback"
+        android:layout_width="match_parent"
+        android:layout_height="@dimen/settings_rl_about_us_height"
+        android:background="@drawable/setting_bg_selector">
+
+        <ImageView
+            android:id="@+id/iv_logo_feedback"
+            android:layout_width="@dimen/settings_rl_bind_yinxiang_iv_logo_width"
+            android:layout_height="@dimen/settings_rl_bind_yinxiang_iv_logo_height"
+            android:layout_alignParentLeft="true"
+            android:layout_centerVertical="true"
+            android:layout_marginLeft="15dip"
+            android:src="@drawable/yijianfankui_logo"
+            tools:ignore="ContentDescription" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_centerVertical="true"
+            android:layout_marginLeft="20dp"
+            android:layout_toRightOf="@+id/iv_logo_feedback"
+            android:clickable="false"
+            android:text="@string/feedback"
+            android:textColor="#313131"
+            android:textSize="@dimen/settings_rl_about_us_tv_logo_info_textsize"
+            tools:ignore="RelativeOverlap" />
+
+        <Button
+            android:layout_width="@dimen/settings_rl_about_us_tv_bt_logo_next_width"
+            android:layout_height="@dimen/settings_rl_about_us_tv_bt_logo_next_height"
+            android:layout_alignParentRight="true"
+            android:layout_centerVertical="true"
+            android:layout_marginRight="8dip"
+            android:background="@drawable/setting_next"
+            android:clickable="false" />
+    </RelativeLayout>
+
+    <ImageView
+        android:layout_width="match_parent"
+        android:layout_height="1px"
+        android:background="@color/devider"
+        tools:ignore="ContentDescription" />
+
+    <RelativeLayout
+        android:id="@+id/rl_about_us"
+        android:layout_width="match_parent"
+        android:layout_height="@dimen/settings_rl_about_us_height"
+        android:background="@drawable/setting_bg_selector">
+
+        <ImageView
+            android:id="@+id/iv_logo_about_us"
+            android:layout_width="@dimen/settings_rl_bind_yinxiang_iv_logo_width"
+            android:layout_height="@dimen/settings_rl_bind_yinxiang_iv_logo_height"
+            android:layout_alignParentLeft="true"
+            android:layout_centerVertical="true"
+            android:layout_marginLeft="15dip"
+            android:src="@drawable/aboutus_logo"
+            tools:ignore="ContentDescription" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_centerVertical="true"
+            android:layout_marginLeft="20dp"
+            android:layout_toRightOf="@id/iv_logo_about_us"
+            android:clickable="false"
+            android:text="@string/about_us"
+            android:textColor="#313131"
+            android:textSize="@dimen/settings_rl_about_us_tv_logo_info_textsize"
+            tools:ignore="RelativeOverlap" />
+
+        <Button
+            android:layout_width="@dimen/settings_rl_about_us_tv_bt_logo_next_width"
+            android:layout_height="@dimen/settings_rl_about_us_tv_bt_logo_next_height"
+            android:layout_alignParentRight="true"
+            android:layout_centerVertical="true"
+            android:layout_marginRight="8dip"
+            android:background="@drawable/setting_next"
+            android:clickable="false" />
+    </RelativeLayout>
+
+    <ImageView
+        android:layout_width="match_parent"
+        android:layout_height="1px"
+        android:background="@color/devider"
+        tools:ignore="ContentDescription" />
+</LinearLayout>

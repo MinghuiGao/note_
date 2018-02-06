@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:ns1="http://schemas.android.com/tools">
+    <dimen name="activity_horizontal_margin" ns1:ignore="UnusedResources">16dp</dimen>
+    <dimen name="activity_vertical_margin" ns1:ignore="UnusedResources">16dp</dimen>
+    <dimen name="am_bt_bottom_feature_height" ns1:ignore="UnusedResources">45dp</dimen>
+    <dimen name="am_bt_bottom_feature_width" ns1:ignore="UnusedResources">45dp</dimen>
+    <dimen name="am_ll_bottom_height" ns1:ignore="UnusedResources">56dip</dimen>
+    <dimen name="am_ll_bottom_width" ns1:ignore="UnusedResources">-2dip</dimen>
+    <dimen name="am_textsize">18sp</dimen>
+    <dimen name="dau_bt_back_height">43dip</dimen>
+    <dimen name="dau_bt_back_textsize">18sp</dimen>
+    <dimen name="dau_bt_back_width" ns1:ignore="UnusedResources">246dip</dimen>
+    <dimen name="dau_height">238dip</dimen>
+    <dimen name="dau_info_textsize">12sp</dimen>
+    <dimen name="dau_padding_left_right" ns1:ignore="UnusedResources">15dip</dimen>
+    <dimen name="dau_padding_top_bottom" ns1:ignore="UnusedResources">8dip</dimen>
+    <dimen name="dau_title_textsize" ns1:ignore="UnusedResources">20sp</dimen>
+    <dimen name="dau_width">305dip</dimen>
+    <dimen name="divider_height">2px</dimen>
+    <dimen name="evernote_confirm_text_width">265dp</dimen>
+    <dimen name="evernote_confirm_width">275dp</dimen>
+    <dimen name="i_iv_height">45dip</dimen>
+    <dimen name="i_iv_width">45dip</dimen>
+    <dimen name="pd_height">147dip</dimen>
+    <dimen name="pd_iv_face_height">34dip</dimen>
+    <dimen name="pd_iv_face_width">34dip</dimen>
+    <dimen name="pd_width">169dip</dimen>
+    <dimen name="pop_bt_cancle_textsize" ns1:ignore="UnusedResources">46dip</dimen>
+    <dimen name="recommand_rl_height">69dip</dimen>
+    <dimen name="recommend_item_icon_to_left">17dip</dimen>
+    <dimen name="recommend_tv_desc">13sp</dimen>
+    <dimen name="settings_header_height">50dip</dimen>
+    <dimen name="settings_header_iv_setting_back_height">30dip</dimen>
+    <dimen name="settings_header_iv_setting_back_width">30dip</dimen>
+    <dimen name="settings_header_tv_header_textsize">18sp</dimen>
+    <dimen name="settings_ll_blank_mid_height">31dip</dimen>
+    <dimen name="settings_ll_blank_top_height">48dip</dimen>
+    <dimen name="settings_ll_blank_top_textsize">14sp</dimen>
+    <dimen name="settings_rl_about_us_height">49dip</dimen>
+    <dimen name="settings_rl_about_us_tv_bt_logo_next_height">30dip</dimen>
+    <dimen name="settings_rl_about_us_tv_bt_logo_next_width">30dip</dimen>
+    <dimen name="settings_rl_about_us_tv_logo_info_textsize">14sp</dimen>
+    <dimen name="settings_rl_bind_yinxiang_bt_logo_next_height">30dip</dimen>
+    <dimen name="settings_rl_bind_yinxiang_bt_logo_next_width">30dip</dimen>
+    <dimen name="settings_rl_bind_yinxiang_height">49dip</dimen>
+    <dimen name="settings_rl_bind_yinxiang_iv_logo_height">33dip</dimen>
+    <dimen name="settings_rl_bind_yinxiang_iv_logo_width">33dip</dimen>
+    <dimen name="settings_rl_bind_yinxiang_tv_logo_info_textsize">14sp</dimen>
+    <dimen name="t_bt_tape_height" ns1:ignore="UnusedResources">16sp</dimen>
+    <dimen name="t_bt_tape_width" ns1:ignore="UnusedResources">16sp</dimen>
+    <dimen name="t_et_content_textsize" ns1:ignore="UnusedResources">16sp</dimen>
+    <dimen name="t_header_height">50dip</dimen>
+    <dimen name="t_header_textsize" ns1:ignore="UnusedResources">16sp</dimen>
+    <dimen name="t_iv_tape_normal_height" ns1:ignore="UnusedResources">56dip</dimen>
+    <dimen name="t_iv_tape_normal_width" ns1:ignore="UnusedResources">90dip</dimen>
+    <dimen name="t_ll_bottom_bt_tape_width_height">40dip</dimen>
+    <dimen name="t_ll_bottom_bt_width_height">45dip</dimen>
+    <dimen name="t_ll_bottom_height">56dip</dimen>
+</resources>

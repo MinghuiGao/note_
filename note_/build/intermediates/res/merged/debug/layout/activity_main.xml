@@ -1,0 +1,91 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@android:color/white"
+    android:gravity="center"
+    android:orientation="vertical"
+    tools:context=".MainActivity">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:gravity="center"
+        android:orientation="vertical">
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/info1"
+            android:textColor="#d2d2d2"
+            android:textSize="@dimen/am_textsize" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="-25dip"
+            android:text=""
+            android:textColor="#d2d2d2"
+            android:textSize="@dimen/am_textsize" />
+
+        <Button
+            android:id="@+id/bt_tape"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="30dip"
+            android:background="@drawable/introduce_tape_" />
+
+    </LinearLayout>
+
+    <!-- <LinearLayout
+        android:id="@+id/ll_bottom"
+        android:layout_width="match_parent"
+        android:layout_height="@dimen/am_ll_bottom_height"
+        android:orientation="horizontal"
+        android:gravity="right|center_vertical"
+        android:background="@drawable/bottom_feature_bg"
+        android:layout_alignParentBottom="true"
+        >
+        <Button
+            android:id="@+id/bt_bottom_feature"
+            android:layout_width="@dimen/am_bt_bottom_feature_width"
+            android:layout_height="@dimen/am_bt_bottom_feature_height"
+            android:background="@drawable/setting" />
+    </LinearLayout> -->
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="@dimen/t_ll_bottom_height"
+        android:layout_alignParentBottom="true"
+        android:background="@drawable/bottom_feature_bg"
+        android:baselineAligned="false"
+        android:gravity="center"
+        android:orientation="horizontal"
+        android:paddingLeft="5dip"
+        android:paddingRight="5dip">
+
+
+        <RelativeLayout
+            android:id="@+id/rl_tape"
+            android:layout_width="0dp"
+            android:layout_height="match_parent"
+            android:layout_weight="3">
+
+        </RelativeLayout>
+
+
+        <RelativeLayout
+            android:layout_width="0dp"
+            android:layout_height="match_parent"
+            android:layout_weight="2"
+            android:gravity="center">
+
+            <Button
+                android:id="@+id/bt_bottom_feature"
+                android:layout_width="@dimen/t_ll_bottom_bt_width_height"
+                android:layout_height="@dimen/t_ll_bottom_bt_width_height"
+                android:background="@drawable/setting_"
+                android:scaleType="center" />
+        </RelativeLayout>
+    </LinearLayout>
+
+</RelativeLayout>   

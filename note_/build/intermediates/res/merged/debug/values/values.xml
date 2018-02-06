@@ -1,0 +1,154 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:ns1="http://schemas.android.com/tools">
+    <color name="about_us_appname">#595959</color>
+    <color name="about_us_version">#808080</color>
+    <color name="confirm_text_color">#434343</color>
+    <color name="devider">#c8c7cc</color>
+    <color name="grey">#d2d2d2</color>
+    <color name="header_bg">#f1f1f1</color>
+    <color name="normal">#4bc1d2</color>
+    <color name="title">#424242</color>
+    <dimen name="activity_horizontal_margin" ns1:ignore="UnusedResources">16dp</dimen>
+    <dimen name="activity_vertical_margin" ns1:ignore="UnusedResources">16dp</dimen>
+    <dimen name="am_bt_bottom_feature_height" ns1:ignore="UnusedResources">60dp</dimen>
+    <dimen name="am_bt_bottom_feature_width" ns1:ignore="UnusedResources">60dp</dimen>
+    <dimen name="am_ll_bottom_height" ns1:ignore="UnusedResources">0dip</dimen>
+    <dimen name="am_ll_bottom_width" ns1:ignore="UnusedResources">-2dip</dimen>
+    <dimen name="am_textsize">18sp</dimen>
+    <dimen name="dau_bt_back_height">38dip</dimen>
+    <dimen name="dau_bt_back_textsize">18sp</dimen>
+    <dimen name="dau_bt_back_width" ns1:ignore="UnusedResources">180dip</dimen>
+    <dimen name="dau_height">186dip</dimen>
+    <dimen name="dau_info_textsize">12sp</dimen>
+    <dimen name="dau_padding_left_right" ns1:ignore="UnusedResources">15dip</dimen>
+    <dimen name="dau_padding_top_bottom" ns1:ignore="UnusedResources">8dip</dimen>
+    <dimen name="dau_title_textsize" ns1:ignore="UnusedResources">24sp</dimen>
+    <dimen name="dau_width">232dip</dimen>
+    <dimen name="divider_height">2px</dimen>
+    <dimen name="evernote_confirm_text_width">265dp</dimen>
+    <dimen name="evernote_confirm_width">275dp</dimen>
+    <dimen name="i_iv_height">50dip</dimen>
+    <dimen name="i_iv_width">50dip</dimen>
+    <dimen name="pd_iv_face_height">34dip</dimen>
+    <dimen name="pd_iv_face_width">34dip</dimen>
+    <dimen name="pop_bt_cancle_textsize" ns1:ignore="UnusedResources">46dip</dimen>
+    <dimen name="recommend_item_icon_to_left">14dip</dimen>
+    <dimen name="recommend_tv_desc">12sp</dimen>
+    <dimen name="settings_header_height">44dip</dimen>
+    <dimen name="settings_header_iv_setting_back_height">40dip</dimen>
+    <dimen name="settings_header_iv_setting_back_width">40dip</dimen>
+    <dimen name="settings_header_tv_header_textsize">18sp</dimen>
+    <dimen name="settings_ll_blank_mid_height">30dip</dimen>
+    <dimen name="settings_ll_blank_top_height">50dip</dimen>
+    <dimen name="settings_ll_blank_top_textsize">14sp</dimen>
+    <dimen name="settings_rl_about_us_height">42dip</dimen>
+    <dimen name="settings_rl_about_us_tv_bt_logo_next_height">40dip</dimen>
+    <dimen name="settings_rl_about_us_tv_bt_logo_next_width">40dip</dimen>
+    <dimen name="settings_rl_about_us_tv_logo_info_textsize">14sp</dimen>
+    <dimen name="settings_rl_bind_yinxiang_bt_logo_next_height">40dip</dimen>
+    <dimen name="settings_rl_bind_yinxiang_bt_logo_next_width">40dip</dimen>
+    <dimen name="settings_rl_bind_yinxiang_height">42dip</dimen>
+    <dimen name="settings_rl_bind_yinxiang_iv_logo_height">28dip</dimen>
+    <dimen name="settings_rl_bind_yinxiang_iv_logo_width">28dip</dimen>
+    <dimen name="settings_rl_bind_yinxiang_tv_logo_info_textsize">14sp</dimen>
+    <dimen name="t_et_content_textsize" ns1:ignore="UnusedResources">16sp</dimen>
+    <dimen name="t_header_height">44dip</dimen>
+    <dimen name="t_header_textsize" ns1:ignore="UnusedResources">16sp</dimen>
+    <dimen name="t_ll_bottom_bt_tape_width_height">40dip</dimen>
+    <dimen name="t_ll_bottom_bt_width_height">50dip</dimen>
+    <dimen name="t_ll_bottom_height">50dip</dimen>
+    <dimen name="tape_margin" ns1:ignore="UnusedResources">10dip</dimen>
+    <string name="about_us" ns1:ignore="MissingTranslation">关于我们</string>
+    <string name="app_name" ns1:ignore="MissingTranslation">语音输入板</string>
+    <string name="bind" ns1:ignore="MissingTranslation">去绑定</string>
+    <string name="bind_setting_title" ns1:ignore="MissingTranslation">账号绑定</string>
+    <string name="cancle" ns1:ignore="MissingTranslation">取 消</string>
+    <string name="company" ns1:ignore="MissingTranslation">思必驰出品</string>
+    <string name="confirm" ns1:ignore="MissingTranslation">确 定</string>
+    <string name="copy_success" ns1:ignore="MissingTranslation">复制成功\n♪d(´▽｀)b♪</string>
+    <string name="copy_text_empty" ns1:ignore="MissingTranslation">先说点什么\n才能拷贝哦</string>
+    <string name="error_creating_notestore" ns1:ignore="MissingTranslation">啊，创建笔记失败…</string>
+    <string name="esdk__loading" ns1:ignore="MissingTranslation">正在加载...</string>
+    <string name="evernote_makingnote" ns1:ignore="MissingTranslation">保存中…</string>
+    <string name="feedback" ns1:ignore="MissingTranslation">意见反馈</string>
+    <string name="feedback_empty_content" ns1:ignore="MissingTranslation">请写下给我们的留言^_^</string>
+    <string name="feedback_empty_email" ns1:ignore="MissingTranslation">请留下邮箱^_^</string>
+    <string name="feedback_fail" ns1:ignore="MissingTranslation">留言未能发送\n再试一次？</string>
+    <string name="feedback_input_mail" ns1:ignore="MissingTranslation">您的邮箱</string>
+    <string name="feedback_success" ns1:ignore="MissingTranslation">反馈已收到\n感谢支持^_^</string>
+    <string name="from" ns1:ignore="MissingTranslation">思必驰--中国领先的语音技术提供商</string>
+    <string name="image_add_none" ns1:ignore="MissingTranslation">啊，没有找到图片\n文件不存在</string>
+    <string name="info1" ns1:ignore="MissingTranslation">点击麦克风,你说我记~</string>
+    <string name="network_error" ns1:ignore="MissingTranslation">网络不太好哦\n没网络不能干活了…</string>
+    <string name="oauth_fail" ns1:ignore="MissingTranslation">啊，授权失败了…</string>
+    <string name="recommand" ns1:ignore="MissingTranslation">应用推荐</string>
+    <string name="recommand_app" ns1:ignore="MissingTranslation">应用推荐</string>
+    <string name="record_fail" ns1:ignore="MissingTranslation">网络不太好哦\n没网络不能干活了…</string>
+    <string name="record_success" ns1:ignore="MissingTranslation">您的话我都记下了~</string>
+    <string name="record_success_share" ns1:ignore="MissingTranslation">您的话我都记下了~\n快去分享吧</string>
+    <string name="send" ns1:ignore="MissingTranslation">发  送</string>
+    <string name="setting" ns1:ignore="MissingTranslation">设 置</string>
+    <string name="share_loading" ns1:ignore="MissingTranslation">正在努力为您生成图片，请稍候...</string>
+    <string name="share_to_sina_loading" ns1:ignore="MissingTranslation">正在分享，请稍候...</string>
+    <string name="sina" ns1:ignore="MissingTranslation">新浪微博</string>
+    <string name="sms_fail" ns1:ignore="MissingTranslation">短信发送失败</string>
+    <string name="sms_success" ns1:ignore="MissingTranslation">短信发送成功咯~</string>
+    <string name="text_empty" ns1:ignore="MissingTranslation">先说点什么\n才能分享哦</string>
+    <string name="unbind" ns1:ignore="MissingTranslation">解除绑定</string>
+    <string name="unbind_confirm" ns1:ignore="MissingTranslation">确实解除绑定？</string>
+    <string name="weibo_share_fail" ns1:ignore="MissingTranslation">没能分享到微博\n再试一次~</string>
+    <string name="weibo_share_fail_140" ns1:ignore="MissingTranslation">微博只能说140字，你多说了%d个字…</string>
+    <string name="weibo_share_same" ns1:ignore="MissingTranslation">不能发布相同的微博</string>
+    <string name="weibo_share_success" ns1:ignore="MissingTranslation">分享微博成功</string>
+    <string name="weibo_space" ns1:ignore="MissingTranslation">新浪微博\n不让发空格回车</string>
+    <string name="yinxiang" ns1:ignore="MissingTranslation">印象笔记</string>
+    <string name="youdao" ns1:ignore="MissingTranslation">有道云笔记</string>
+    <string name="youdao_uninstalled" ns1:ignore="MissingTranslation">尚未安装有道笔记！</string>
+    <style name="AnimBottom" parent="@android:style/Animation">
+        <item name="android:windowEnterAnimation">@anim/push_bottom_in</item>
+        <item name="android:windowExitAnimation">@anim/push_bottom_out</item>
+    </style>
+    <style name="AppBaseTheme" parent="android:Theme.Light">
+        <!--
+            Theme customizations available in newer API levels can go in
+            res/values-vXX/styles.xml, while customizations related to
+            backward-compatibility can go here.
+
+        -->
+    </style>
+    <style name="AppTheme" parent="AppBaseTheme">
+        <!-- All customizations that are NOT specific to a particular API-level can go here. -->
+    </style>
+    <style name="MyDialog" parent="@android:style/Theme.Dialog">
+        <item name="android:windowFrame">@null</item>
+        <item name="android:windowNoTitle">true</item>
+        <item name="android:windowBackground">@drawable/tankuang_bg</item>
+        <item name="android:windowIsFloating">true</item>
+        <item name="android:windowContentOverlay">@null</item>
+        <item name="android:width">@dimen/dau_width</item>
+        <item name="android:height">@dimen/dau_height</item>
+    </style>
+    <style name="MyDialogStyleBottom" parent="android:Theme.Dialog">
+        <item name="android:windowAnimationStyle">@style/AnimBottom</item>
+        <item name="android:windowFrame">@null</item>
+        <!-- 边框 -->
+        <item name="android:windowIsFloating">false</item>
+        <!-- 是否浮现在activity之上 -->
+        <item name="android:windowIsTranslucent">true</item>
+
+        <!-- 半透明 -->
+        <item name="android:windowNoTitle">true</item>
+        <!-- 无标题 -->
+        <item name="android:windowBackground">@android:color/transparent</item>
+        <!-- 背景透明 -->
+        <item name="android:backgroundDimEnabled">true</item>
+        <!-- 模糊 -->
+    </style>
+    <style name="Theme_Dialog" parent="android:style/Theme.Dialog">
+        <item name="android:windowFrame">@null</item>
+        <item name="android:windowIsFloating">true</item>
+        <item name="android:windowIsTranslucent">false</item>
+        <item name="android:windowNoTitle">true</item>
+        <item name="android:backgroundDimEnabled">false</item>
+    </style>
+</resources>
