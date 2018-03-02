@@ -27,12 +27,14 @@
     </LinearLayout>
 
     <LinearLayout
+        style="?android:buttonBarStyle"
         android:layout_width="@dimen/evernote_confirm_width"
         android:layout_height="wrap_content"
         android:orientation="horizontal">
 
         <Button
             android:id="@+id/bt_evernote_confirm"
+            style="?android:buttonBarButtonStyle"
             android:layout_width="0dip"
             android:layout_height="@dimen/dau_bt_back_height"
             android:layout_margin="5dip"
@@ -44,6 +46,7 @@
 
         <Button
             android:id="@+id/bt_evernote_cancle"
+            style="?android:buttonBarButtonStyle"
             android:layout_width="0dip"
             android:layout_height="@dimen/dau_bt_back_height"
             android:layout_margin="5dip"

@@ -1,5 +1,9 @@
 [
     {
+        "merged": "/home/gaomh/git_spaces/02_note/NoteApp/note_/build/intermediates/res/merged/debug/anim/push_bottom_in.xml",
+        "source": "/home/gaomh/git_spaces/02_note/NoteApp/note_/src/main/res/anim/push_bottom_in.xml"
+    },
+    {
         "merged": "/home/gaomh/git_spaces/RxAndroidDemo/note_/build/intermediates/res/merged/debug/anim/nochange_in.xml",
         "source": "/home/gaomh/git_spaces/RxAndroidDemo/note_/src/main/res/anim/nochange_in.xml"
     },
@@ -8,12 +12,32 @@
         "source": "/home/gaomh/git_spaces/RxAndroidDemo/note_/src/main/res/anim/push_bottom_out.xml"
     },
     {
+        "merged": "/home/gaomh/git_spaces/02_note/NoteApp/note_/build/intermediates/res/merged/debug/anim/nochange_out.xml",
+        "source": "/home/gaomh/git_spaces/02_note/NoteApp/note_/src/main/res/anim/nochange_out.xml"
+    },
+    {
+        "merged": "/home/gaomh/git_spaces/02_note/NoteApp/note_/build/intermediates/res/merged/debug/anim/nochange_in.xml",
+        "source": "/home/gaomh/git_spaces/02_note/NoteApp/note_/src/main/res/anim/nochange_in.xml"
+    },
+    {
+        "merged": "/home/gaomh/git_spaces/02_note/NoteApp/note_/build/intermediates/res/merged/debug/anim/slid_from_right_in.xml",
+        "source": "/home/gaomh/git_spaces/02_note/NoteApp/note_/src/main/res/anim/slid_from_right_in.xml"
+    },
+    {
         "merged": "/home/gaomh/git_spaces/RxAndroidDemo/note_/build/intermediates/res/merged/debug/anim/slid_from_right_in.xml",
         "source": "/home/gaomh/git_spaces/RxAndroidDemo/note_/src/main/res/anim/slid_from_right_in.xml"
     },
     {
         "merged": "/home/gaomh/git_spaces/RxAndroidDemo/note_/build/intermediates/res/merged/debug/anim/push_bottom_in.xml",
         "source": "/home/gaomh/git_spaces/RxAndroidDemo/note_/src/main/res/anim/push_bottom_in.xml"
+    },
+    {
+        "merged": "/home/gaomh/git_spaces/02_note/NoteApp/note_/build/intermediates/res/merged/debug/anim/push_bottom_out.xml",
+        "source": "/home/gaomh/git_spaces/02_note/NoteApp/note_/src/main/res/anim/push_bottom_out.xml"
+    },
+    {
+        "merged": "/home/gaomh/git_spaces/02_note/NoteApp/note_/build/intermediates/res/merged/debug/anim/slide_from_left_out.xml",
+        "source": "/home/gaomh/git_spaces/02_note/NoteApp/note_/src/main/res/anim/slide_from_left_out.xml"
     },
     {
         "merged": "/home/gaomh/git_spaces/RxAndroidDemo/note_/build/intermediates/res/merged/debug/anim/nochange_out.xml",

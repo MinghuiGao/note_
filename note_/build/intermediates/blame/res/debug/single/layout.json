@@ -1,5 +1,61 @@
 [
     {
+        "merged": "/home/gaomh/git_spaces/02_note/NoteApp/note_/build/intermediates/res/merged/debug/layout/activity_main.xml",
+        "source": "/home/gaomh/git_spaces/02_note/NoteApp/note_/src/main/res/layout/activity_main.xml"
+    },
+    {
+        "merged": "/home/gaomh/git_spaces/02_note/NoteApp/note_/build/intermediates/res/merged/debug/layout/about_us.xml",
+        "source": "/home/gaomh/git_spaces/02_note/NoteApp/note_/src/main/res/layout/about_us.xml"
+    },
+    {
+        "merged": "/home/gaomh/git_spaces/RxAndroidDemo/note_/build/intermediates/res/merged/debug/layout/about_us.xml",
+        "source": "/home/gaomh/git_spaces/RxAndroidDemo/note_/src/main/res/layout/about_us.xml"
+    },
+    {
+        "merged": "/home/gaomh/git_spaces/02_note/NoteApp/note_/build/intermediates/res/merged/debug/layout/tip_success.xml",
+        "source": "/home/gaomh/git_spaces/02_note/NoteApp/note_/src/main/res/layout/tip_success.xml"
+    },
+    {
+        "merged": "/home/gaomh/git_spaces/RxAndroidDemo/note_/build/intermediates/res/merged/debug/layout/pop_dialog.xml",
+        "source": "/home/gaomh/git_spaces/RxAndroidDemo/note_/src/main/res/layout/pop_dialog.xml"
+    },
+    {
+        "merged": "/home/gaomh/git_spaces/02_note/NoteApp/note_/build/intermediates/res/merged/debug/layout/feedback.xml",
+        "source": "/home/gaomh/git_spaces/02_note/NoteApp/note_/src/main/res/layout/feedback.xml"
+    },
+    {
+        "merged": "/home/gaomh/git_spaces/02_note/NoteApp/note_/build/intermediates/res/merged/debug/layout/pop_dialog.xml",
+        "source": "/home/gaomh/git_spaces/02_note/NoteApp/note_/src/main/res/layout/pop_dialog.xml"
+    },
+    {
+        "merged": "/home/gaomh/git_spaces/02_note/NoteApp/note_/build/intermediates/res/merged/debug/layout/evernote_confirm_dialog.xml",
+        "source": "/home/gaomh/git_spaces/02_note/NoteApp/note_/src/main/res/layout/evernote_confirm_dialog.xml"
+    },
+    {
+        "merged": "/home/gaomh/git_spaces/RxAndroidDemo/note_/build/intermediates/res/merged/debug/layout/pop.xml",
+        "source": "/home/gaomh/git_spaces/RxAndroidDemo/note_/src/main/res/layout/pop.xml"
+    },
+    {
+        "merged": "/home/gaomh/git_spaces/02_note/NoteApp/note_/build/intermediates/res/merged/debug/layout/splash.xml",
+        "source": "/home/gaomh/git_spaces/02_note/NoteApp/note_/src/main/res/layout/splash.xml"
+    },
+    {
+        "merged": "/home/gaomh/git_spaces/RxAndroidDemo/note_/build/intermediates/res/merged/debug/layout/feedback.xml",
+        "source": "/home/gaomh/git_spaces/RxAndroidDemo/note_/src/main/res/layout/feedback.xml"
+    },
+    {
+        "merged": "/home/gaomh/git_spaces/RxAndroidDemo/note_/build/intermediates/res/merged/debug/layout/recommand_item.xml",
+        "source": "/home/gaomh/git_spaces/RxAndroidDemo/note_/src/main/res/layout/recommand_item.xml"
+    },
+    {
+        "merged": "/home/gaomh/git_spaces/02_note/NoteApp/note_/build/intermediates/res/merged/debug/layout/tape2.xml",
+        "source": "/home/gaomh/git_spaces/02_note/NoteApp/note_/src/main/res/layout/tape2.xml"
+    },
+    {
+        "merged": "/home/gaomh/git_spaces/RxAndroidDemo/note_/build/intermediates/res/merged/debug/layout/activity_main.xml",
+        "source": "/home/gaomh/git_spaces/RxAndroidDemo/note_/src/main/res/layout/activity_main.xml"
+    },
+    {
         "merged": "/home/gaomh/git_spaces/RxAndroidDemo/note_/build/intermediates/res/merged/debug/layout/tip_success.xml",
         "source": "/home/gaomh/git_spaces/RxAndroidDemo/note_/src/main/res/layout/tip_success.xml"
     },
@@ -8,12 +64,8 @@
         "source": "/home/gaomh/git_spaces/RxAndroidDemo/note_/src/main/res/layout/evernote_confirm_dialog.xml"
     },
     {
-        "merged": "/home/gaomh/git_spaces/RxAndroidDemo/note_/build/intermediates/res/merged/debug/layout/about_us.xml",
-        "source": "/home/gaomh/git_spaces/RxAndroidDemo/note_/src/main/res/layout/about_us.xml"
-    },
-    {
-        "merged": "/home/gaomh/git_spaces/RxAndroidDemo/note_/build/intermediates/res/merged/debug/layout/pop_dialog.xml",
-        "source": "/home/gaomh/git_spaces/RxAndroidDemo/note_/src/main/res/layout/pop_dialog.xml"
+        "merged": "/home/gaomh/git_spaces/02_note/NoteApp/note_/build/intermediates/res/merged/debug/layout/recommand_item.xml",
+        "source": "/home/gaomh/git_spaces/02_note/NoteApp/note_/src/main/res/layout/recommand_item.xml"
     },
     {
         "merged": "/home/gaomh/git_spaces/RxAndroidDemo/note_/build/intermediates/res/merged/debug/layout/tape2.xml",
@@ -24,12 +76,16 @@
         "source": "/home/gaomh/git_spaces/RxAndroidDemo/note_/src/main/res/layout/splash.xml"
     },
     {
-        "merged": "/home/gaomh/git_spaces/RxAndroidDemo/note_/build/intermediates/res/merged/debug/layout/pop.xml",
-        "source": "/home/gaomh/git_spaces/RxAndroidDemo/note_/src/main/res/layout/pop.xml"
+        "merged": "/home/gaomh/git_spaces/02_note/NoteApp/note_/build/intermediates/res/merged/debug/layout/item.xml",
+        "source": "/home/gaomh/git_spaces/02_note/NoteApp/note_/src/main/res/layout/item.xml"
     },
     {
         "merged": "/home/gaomh/git_spaces/RxAndroidDemo/note_/build/intermediates/res/merged/debug/layout/introdue.xml",
         "source": "/home/gaomh/git_spaces/RxAndroidDemo/note_/src/main/res/layout/introdue.xml"
+    },
+    {
+        "merged": "/home/gaomh/git_spaces/02_note/NoteApp/note_/build/intermediates/res/merged/debug/layout/settings.xml",
+        "source": "/home/gaomh/git_spaces/02_note/NoteApp/note_/src/main/res/layout/settings.xml"
     },
     {
         "merged": "/home/gaomh/git_spaces/RxAndroidDemo/note_/build/intermediates/res/merged/debug/layout/item.xml",
@@ -40,19 +96,19 @@
         "source": "/home/gaomh/git_spaces/RxAndroidDemo/note_/src/main/res/layout/recommand.xml"
     },
     {
-        "merged": "/home/gaomh/git_spaces/RxAndroidDemo/note_/build/intermediates/res/merged/debug/layout/feedback.xml",
-        "source": "/home/gaomh/git_spaces/RxAndroidDemo/note_/src/main/res/layout/feedback.xml"
+        "merged": "/home/gaomh/git_spaces/02_note/NoteApp/note_/build/intermediates/res/merged/debug/layout/introdue.xml",
+        "source": "/home/gaomh/git_spaces/02_note/NoteApp/note_/src/main/res/layout/introdue.xml"
     },
     {
         "merged": "/home/gaomh/git_spaces/RxAndroidDemo/note_/build/intermediates/res/merged/debug/layout/settings.xml",
         "source": "/home/gaomh/git_spaces/RxAndroidDemo/note_/src/main/res/layout/settings.xml"
     },
     {
-        "merged": "/home/gaomh/git_spaces/RxAndroidDemo/note_/build/intermediates/res/merged/debug/layout/recommand_item.xml",
-        "source": "/home/gaomh/git_spaces/RxAndroidDemo/note_/src/main/res/layout/recommand_item.xml"
+        "merged": "/home/gaomh/git_spaces/02_note/NoteApp/note_/build/intermediates/res/merged/debug/layout/recommand.xml",
+        "source": "/home/gaomh/git_spaces/02_note/NoteApp/note_/src/main/res/layout/recommand.xml"
     },
     {
-        "merged": "/home/gaomh/git_spaces/RxAndroidDemo/note_/build/intermediates/res/merged/debug/layout/activity_main.xml",
-        "source": "/home/gaomh/git_spaces/RxAndroidDemo/note_/src/main/res/layout/activity_main.xml"
+        "merged": "/home/gaomh/git_spaces/02_note/NoteApp/note_/build/intermediates/res/merged/debug/layout/pop.xml",
+        "source": "/home/gaomh/git_spaces/02_note/NoteApp/note_/src/main/res/layout/pop.xml"
     }
 ]

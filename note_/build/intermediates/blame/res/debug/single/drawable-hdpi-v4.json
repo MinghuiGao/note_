@@ -1,19 +1,71 @@
 [
     {
+        "merged": "/home/gaomh/git_spaces/RxAndroidDemo/note_/build/intermediates/res/merged/debug/drawable-hdpi-v4/s_voice_.xml",
+        "source": "/home/gaomh/git_spaces/RxAndroidDemo/note_/src/main/res/drawable-hdpi/s_voice_.xml"
+    },
+    {
+        "merged": "/home/gaomh/git_spaces/02_note/NoteApp/note_/build/intermediates/res/merged/debug/drawable-hdpi-v4/setting_.xml",
+        "source": "/home/gaomh/git_spaces/02_note/NoteApp/note_/src/main/res/drawable-hdpi/setting_.xml"
+    },
+    {
+        "merged": "/home/gaomh/git_spaces/RxAndroidDemo/note_/build/intermediates/res/merged/debug/drawable-hdpi-v4/pic_.xml",
+        "source": "/home/gaomh/git_spaces/RxAndroidDemo/note_/src/main/res/drawable-hdpi/pic_.xml"
+    },
+    {
+        "merged": "/home/gaomh/git_spaces/02_note/NoteApp/note_/build/intermediates/res/merged/debug/drawable-hdpi-v4/s_mail_.xml",
+        "source": "/home/gaomh/git_spaces/02_note/NoteApp/note_/src/main/res/drawable-hdpi/s_mail_.xml"
+    },
+    {
+        "merged": "/home/gaomh/git_spaces/02_note/NoteApp/note_/build/intermediates/res/merged/debug/drawable-hdpi-v4/keyboard_.xml",
+        "source": "/home/gaomh/git_spaces/02_note/NoteApp/note_/src/main/res/drawable-hdpi/keyboard_.xml"
+    },
+    {
+        "merged": "/home/gaomh/git_spaces/02_note/NoteApp/note_/build/intermediates/res/merged/debug/drawable-hdpi-v4/pic_.xml",
+        "source": "/home/gaomh/git_spaces/02_note/NoteApp/note_/src/main/res/drawable-hdpi/pic_.xml"
+    },
+    {
+        "merged": "/home/gaomh/git_spaces/RxAndroidDemo/note_/build/intermediates/res/merged/debug/drawable-hdpi-v4/setting_.xml",
+        "source": "/home/gaomh/git_spaces/RxAndroidDemo/note_/src/main/res/drawable-hdpi/setting_.xml"
+    },
+    {
+        "merged": "/home/gaomh/git_spaces/RxAndroidDemo/note_/build/intermediates/res/merged/debug/drawable-hdpi-v4/button_.xml",
+        "source": "/home/gaomh/git_spaces/RxAndroidDemo/note_/src/main/res/drawable-hdpi/button_.xml"
+    },
+    {
+        "merged": "/home/gaomh/git_spaces/02_note/NoteApp/note_/build/intermediates/res/merged/debug/drawable-hdpi-v4/setting_next.xml",
+        "source": "/home/gaomh/git_spaces/02_note/NoteApp/note_/src/main/res/drawable-hdpi/setting_next.xml"
+    },
+    {
+        "merged": "/home/gaomh/git_spaces/RxAndroidDemo/note_/build/intermediates/res/merged/debug/drawable-hdpi-v4/s_msg_.xml",
+        "source": "/home/gaomh/git_spaces/RxAndroidDemo/note_/src/main/res/drawable-hdpi/s_msg_.xml"
+    },
+    {
+        "merged": "/home/gaomh/git_spaces/02_note/NoteApp/note_/build/intermediates/res/merged/debug/drawable-hdpi-v4/share_.xml",
+        "source": "/home/gaomh/git_spaces/02_note/NoteApp/note_/src/main/res/drawable-hdpi/share_.xml"
+    },
+    {
         "merged": "/home/gaomh/git_spaces/RxAndroidDemo/note_/build/intermediates/res/merged/debug/drawable-hdpi-v4/s_copy_.xml",
         "source": "/home/gaomh/git_spaces/RxAndroidDemo/note_/src/main/res/drawable-hdpi/s_copy_.xml"
     },
     {
-        "merged": "/home/gaomh/git_spaces/RxAndroidDemo/note_/build/intermediates/res/merged/debug/drawable-hdpi-v4/s_voice_.xml",
-        "source": "/home/gaomh/git_spaces/RxAndroidDemo/note_/src/main/res/drawable-hdpi/s_voice_.xml"
+        "merged": "/home/gaomh/git_spaces/02_note/NoteApp/note_/build/intermediates/res/merged/debug/drawable-hdpi-v4/s_voice_.xml",
+        "source": "/home/gaomh/git_spaces/02_note/NoteApp/note_/src/main/res/drawable-hdpi/s_voice_.xml"
+    },
+    {
+        "merged": "/home/gaomh/git_spaces/02_note/NoteApp/note_/build/intermediates/res/merged/debug/drawable-hdpi-v4/s_elephent_.xml",
+        "source": "/home/gaomh/git_spaces/02_note/NoteApp/note_/src/main/res/drawable-hdpi/s_elephent_.xml"
+    },
+    {
+        "merged": "/home/gaomh/git_spaces/02_note/NoteApp/note_/build/intermediates/res/merged/debug/drawable-hdpi-v4/introduce_tape_.xml",
+        "source": "/home/gaomh/git_spaces/02_note/NoteApp/note_/src/main/res/drawable-hdpi/introduce_tape_.xml"
     },
     {
         "merged": "/home/gaomh/git_spaces/RxAndroidDemo/note_/build/intermediates/res/merged/debug/drawable-hdpi-v4/keyboard_.xml",
         "source": "/home/gaomh/git_spaces/RxAndroidDemo/note_/src/main/res/drawable-hdpi/keyboard_.xml"
     },
     {
-        "merged": "/home/gaomh/git_spaces/RxAndroidDemo/note_/build/intermediates/res/merged/debug/drawable-hdpi-v4/pic_.xml",
-        "source": "/home/gaomh/git_spaces/RxAndroidDemo/note_/src/main/res/drawable-hdpi/pic_.xml"
+        "merged": "/home/gaomh/git_spaces/02_note/NoteApp/note_/build/intermediates/res/merged/debug/drawable-hdpi-v4/s_friend_.xml",
+        "source": "/home/gaomh/git_spaces/02_note/NoteApp/note_/src/main/res/drawable-hdpi/s_friend_.xml"
     },
     {
         "merged": "/home/gaomh/git_spaces/RxAndroidDemo/note_/build/intermediates/res/merged/debug/drawable-hdpi-v4/s_mail_.xml",
@@ -22,6 +74,10 @@
     {
         "merged": "/home/gaomh/git_spaces/RxAndroidDemo/note_/build/intermediates/res/merged/debug/drawable-hdpi-v4/introduce_tape_.xml",
         "source": "/home/gaomh/git_spaces/RxAndroidDemo/note_/src/main/res/drawable-hdpi/introduce_tape_.xml"
+    },
+    {
+        "merged": "/home/gaomh/git_spaces/02_note/NoteApp/note_/build/intermediates/res/merged/debug/drawable-hdpi-v4/s_msg_.xml",
+        "source": "/home/gaomh/git_spaces/02_note/NoteApp/note_/src/main/res/drawable-hdpi/s_msg_.xml"
     },
     {
         "merged": "/home/gaomh/git_spaces/RxAndroidDemo/note_/build/intermediates/res/merged/debug/drawable-hdpi-v4/s_friend_.xml",
@@ -36,19 +92,15 @@
         "source": "/home/gaomh/git_spaces/RxAndroidDemo/note_/src/main/res/drawable-hdpi/share_.xml"
     },
     {
-        "merged": "/home/gaomh/git_spaces/RxAndroidDemo/note_/build/intermediates/res/merged/debug/drawable-hdpi-v4/setting_.xml",
-        "source": "/home/gaomh/git_spaces/RxAndroidDemo/note_/src/main/res/drawable-hdpi/setting_.xml"
-    },
-    {
-        "merged": "/home/gaomh/git_spaces/RxAndroidDemo/note_/build/intermediates/res/merged/debug/drawable-hdpi-v4/button_.xml",
-        "source": "/home/gaomh/git_spaces/RxAndroidDemo/note_/src/main/res/drawable-hdpi/button_.xml"
+        "merged": "/home/gaomh/git_spaces/02_note/NoteApp/note_/build/intermediates/res/merged/debug/drawable-hdpi-v4/button_.xml",
+        "source": "/home/gaomh/git_spaces/02_note/NoteApp/note_/src/main/res/drawable-hdpi/button_.xml"
     },
     {
         "merged": "/home/gaomh/git_spaces/RxAndroidDemo/note_/build/intermediates/res/merged/debug/drawable-hdpi-v4/setting_next.xml",
         "source": "/home/gaomh/git_spaces/RxAndroidDemo/note_/src/main/res/drawable-hdpi/setting_next.xml"
     },
     {
-        "merged": "/home/gaomh/git_spaces/RxAndroidDemo/note_/build/intermediates/res/merged/debug/drawable-hdpi-v4/s_msg_.xml",
-        "source": "/home/gaomh/git_spaces/RxAndroidDemo/note_/src/main/res/drawable-hdpi/s_msg_.xml"
+        "merged": "/home/gaomh/git_spaces/02_note/NoteApp/note_/build/intermediates/res/merged/debug/drawable-hdpi-v4/s_copy_.xml",
+        "source": "/home/gaomh/git_spaces/02_note/NoteApp/note_/src/main/res/drawable-hdpi/s_copy_.xml"
     }
 ]

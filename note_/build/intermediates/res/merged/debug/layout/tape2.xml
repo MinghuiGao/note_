@@ -64,7 +64,7 @@
             android:layout_marginLeft="15dip"
             android:layout_marginRight="15dip"
             android:background="@null"
-
+            android:inputType="text"
             android:paddingTop="5dip"
             android:textColor="#5b5f62"
             android:textColorHighlight="#cdddec"
