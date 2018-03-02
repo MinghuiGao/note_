@@ -1,6 +1,12 @@
 -- Merging decision tree log ---
 manifest
 ADDED from /home/gaomh/git_spaces/02_note/NoteApp/note_/src/main/AndroidManifest.xml:2:1-123:12
+INJECTED from /home/gaomh/git_spaces/02_note/NoteApp/note_/src/main/AndroidManifest.xml:2:1-123:12
+INJECTED from /home/gaomh/git_spaces/02_note/NoteApp/note_/src/main/AndroidManifest.xml:2:1-123:12
+INJECTED from /home/gaomh/git_spaces/02_note/NoteApp/note_/src/main/AndroidManifest.xml:2:1-123:12
+INJECTED from /home/gaomh/git_spaces/02_note/NoteApp/note_/src/main/AndroidManifest.xml:2:1-123:12
+INJECTED from /home/gaomh/git_spaces/02_note/NoteApp/note_/src/main/AndroidManifest.xml:2:1-123:12
+INJECTED from /home/gaomh/git_spaces/02_note/NoteApp/note_/src/main/AndroidManifest.xml:2:1-123:12
 	package
 		ADDED from /home/gaomh/git_spaces/02_note/NoteApp/note_/src/main/AndroidManifest.xml:3:5-30
 		INJECTED from /home/gaomh/git_spaces/02_note/NoteApp/note_/src/main/AndroidManifest.xml
@@ -9,14 +15,18 @@ ADDED from /home/gaomh/git_spaces/02_note/NoteApp/note_/src/main/AndroidManifest
 		ADDED from /home/gaomh/git_spaces/02_note/NoteApp/note_/src/main/AndroidManifest.xml:5:5-30
 		INJECTED from /home/gaomh/git_spaces/02_note/NoteApp/note_/src/main/AndroidManifest.xml
 		INJECTED from /home/gaomh/git_spaces/02_note/NoteApp/note_/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /home/gaomh/git_spaces/02_note/NoteApp/note_/src/main/AndroidManifest.xml:2:11-69
 	android:versionCode
 		ADDED from /home/gaomh/git_spaces/02_note/NoteApp/note_/src/main/AndroidManifest.xml:4:5-28
 		INJECTED from /home/gaomh/git_spaces/02_note/NoteApp/note_/src/main/AndroidManifest.xml
 		INJECTED from /home/gaomh/git_spaces/02_note/NoteApp/note_/src/main/AndroidManifest.xml
-	xmlns:android
-		ADDED from /home/gaomh/git_spaces/02_note/NoteApp/note_/src/main/AndroidManifest.xml:2:11-69
 uses-sdk
 ADDED from /home/gaomh/git_spaces/02_note/NoteApp/note_/src/main/AndroidManifest.xml:7:5-9:41
+INJECTED from /home/gaomh/git_spaces/02_note/NoteApp/note_/src/main/AndroidManifest.xml:7:5-9:41
+INJECTED from /home/gaomh/git_spaces/02_note/NoteApp/note_/src/main/AndroidManifest.xml:7:5-9:41
+INJECTED from /home/gaomh/git_spaces/02_note/NoteApp/note_/src/main/AndroidManifest.xml:7:5-9:41
+INJECTED from /home/gaomh/git_spaces/02_note/NoteApp/note_/src/main/AndroidManifest.xml:7:5-9:41
 	android:targetSdkVersion
 		ADDED from /home/gaomh/git_spaces/02_note/NoteApp/note_/src/main/AndroidManifest.xml:9:9-38
 		INJECTED from /home/gaomh/git_spaces/02_note/NoteApp/note_/src/main/AndroidManifest.xml
@@ -69,10 +79,10 @@ application
 ADDED from /home/gaomh/git_spaces/02_note/NoteApp/note_/src/main/AndroidManifest.xml:24:5-121:19
 	android:label
 		ADDED from /home/gaomh/git_spaces/02_note/NoteApp/note_/src/main/AndroidManifest.xml:28:9-41
-	android:allowBackup
-		ADDED from /home/gaomh/git_spaces/02_note/NoteApp/note_/src/main/AndroidManifest.xml:26:9-35
 	android:icon
 		ADDED from /home/gaomh/git_spaces/02_note/NoteApp/note_/src/main/AndroidManifest.xml:27:9-38
+	android:allowBackup
+		ADDED from /home/gaomh/git_spaces/02_note/NoteApp/note_/src/main/AndroidManifest.xml:26:9-35
 	android:theme
 		ADDED from /home/gaomh/git_spaces/02_note/NoteApp/note_/src/main/AndroidManifest.xml:29:9-56
 	android:name

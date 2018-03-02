@@ -35,7 +35,7 @@ public class SplashActivity extends Activity {
 			default:
 				break;
 			}
-		};
+		}
 	};
 
 
@@ -71,6 +71,7 @@ public class SplashActivity extends Activity {
 		isFirstStart = sp.getBoolean("isFirstStart", true);
 		edit.apply();
 	}
+
 	
 	/**
 	 *  进入主界面

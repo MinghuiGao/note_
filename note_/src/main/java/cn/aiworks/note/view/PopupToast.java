@@ -142,9 +142,9 @@ public class PopupToast extends Toast {
         }, 500);
     }
 
-    public void canclePT() {
+    /*public void canclePT() {
         if (toast != null) toast.cancel();
-    }
+    }*/
 
 
 }

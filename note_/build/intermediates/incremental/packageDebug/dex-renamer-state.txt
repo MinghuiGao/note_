@@ -1,4 +1,4 @@
-#Tue Feb 06 21:43:23 CST 2018
-base.0=/home/gaomh/git_spaces/RxAndroidDemo/note_/build/intermediates/transforms/dex/debug/folders/1000/1f/main
+#Fri Mar 02 13:05:41 CST 2018
+base.0=/home/gaomh/git_spaces/02_note/NoteApp/note_/build/intermediates/transforms/dex/debug/folders/1000/1f/main
 renamed.0=classes.dex
-file.0=/home/gaomh/git_spaces/RxAndroidDemo/note_/build/intermediates/transforms/dex/debug/folders/1000/1f/main/classes.dex
+file.0=/home/gaomh/git_spaces/02_note/NoteApp/note_/build/intermediates/transforms/dex/debug/folders/1000/1f/main/classes.dex

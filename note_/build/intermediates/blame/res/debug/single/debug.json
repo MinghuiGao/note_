@@ -1,0 +1,974 @@
+[
+    {
+        "merged": "/home/gaomh/git_spaces/02_note/NoteApp/note_/build/intermediates/res/merged/debug/drawable-xhdpi_setting_forward.png.flat",
+        "source": "/home/gaomh/git_spaces/02_note/NoteApp/note_/src/main/res/drawable-xhdpi/setting_forward.png"
+    },
+    {
+        "merged": "/home/gaomh/git_spaces/02_note/NoteApp/note_/build/intermediates/res/merged/debug/drawable-hdpi_keyboard_.xml.flat",
+        "source": "/home/gaomh/git_spaces/02_note/NoteApp/note_/src/main/res/drawable-hdpi/keyboard_.xml"
+    },
+    {
+        "merged": "/home/gaomh/git_spaces/02_note/NoteApp/note_/build/intermediates/res/merged/debug/drawable-xhdpi_pic_.xml.flat",
+        "source": "/home/gaomh/git_spaces/02_note/NoteApp/note_/src/main/res/drawable-xhdpi/pic_.xml"
+    },
+    {
+        "merged": "/home/gaomh/git_spaces/02_note/NoteApp/note_/build/intermediates/res/merged/debug/drawable-hdpi_s_friends.png.flat",
+        "source": "/home/gaomh/git_spaces/02_note/NoteApp/note_/src/main/res/drawable-hdpi/s_friends.png"
+    },
+    {
+        "merged": "/home/gaomh/git_spaces/02_note/NoteApp/note_/build/intermediates/res/merged/debug/drawable-hdpi_s_msg_pressed.png.flat",
+        "source": "/home/gaomh/git_spaces/02_note/NoteApp/note_/src/main/res/drawable-hdpi/s_msg_pressed.png"
+    },
+    {
+        "merged": "/home/gaomh/git_spaces/02_note/NoteApp/note_/build/intermediates/res/merged/debug/drawable-xhdpi_s_copy_pressed.png.flat",
+        "source": "/home/gaomh/git_spaces/02_note/NoteApp/note_/src/main/res/drawable-xhdpi/s_copy_pressed.png"
+    },
+    {
+        "merged": "/home/gaomh/git_spaces/02_note/NoteApp/note_/build/intermediates/res/merged/debug/drawable_introduce_tape.png.flat",
+        "source": "/home/gaomh/git_spaces/02_note/NoteApp/note_/src/main/res/drawable/introduce_tape.png"
+    },
+    {
+        "merged": "/home/gaomh/git_spaces/02_note/NoteApp/note_/build/intermediates/res/merged/debug/drawable-hdpi_del.png.flat",
+        "source": "/home/gaomh/git_spaces/02_note/NoteApp/note_/src/main/res/drawable-hdpi/del.png"
+    },
+    {
+        "merged": "/home/gaomh/git_spaces/02_note/NoteApp/note_/build/intermediates/res/merged/debug/drawable_loading.png.flat",
+        "source": "/home/gaomh/git_spaces/02_note/NoteApp/note_/src/main/res/drawable/loading.png"
+    },
+    {
+        "merged": "/home/gaomh/git_spaces/02_note/NoteApp/note_/build/intermediates/res/merged/debug/drawable-hdpi_yingyongtuijian_icon_4.png.flat",
+        "source": "/home/gaomh/git_spaces/02_note/NoteApp/note_/src/main/res/drawable-hdpi/yingyongtuijian_icon_4.png"
+    },
+    {
+        "merged": "/home/gaomh/git_spaces/02_note/NoteApp/note_/build/intermediates/res/merged/debug/drawable_setting.png.flat",
+        "source": "/home/gaomh/git_spaces/02_note/NoteApp/note_/src/main/res/drawable/setting.png"
+    },
+    {
+        "merged": "/home/gaomh/git_spaces/02_note/NoteApp/note_/build/intermediates/res/merged/debug/drawable-xhdpi_setting_next.xml.flat",
+        "source": "/home/gaomh/git_spaces/02_note/NoteApp/note_/src/main/res/drawable-xhdpi/setting_next.xml"
+    },
+    {
+        "merged": "/home/gaomh/git_spaces/02_note/NoteApp/note_/build/intermediates/res/merged/debug/drawable-xhdpi_yingyongtuijian_icon_4.png.flat",
+        "source": "/home/gaomh/git_spaces/02_note/NoteApp/note_/src/main/res/drawable-xhdpi/yingyongtuijian_icon_4.png"
+    },
+    {
+        "merged": "/home/gaomh/git_spaces/02_note/NoteApp/note_/build/intermediates/res/merged/debug/drawable-xhdpi_keyboard_.xml.flat",
+        "source": "/home/gaomh/git_spaces/02_note/NoteApp/note_/src/main/res/drawable-xhdpi/keyboard_.xml"
+    },
+    {
+        "merged": "/home/gaomh/git_spaces/02_note/NoteApp/note_/build/intermediates/res/merged/debug/drawable-xhdpi_s_msg_pressed.png.flat",
+        "source": "/home/gaomh/git_spaces/02_note/NoteApp/note_/src/main/res/drawable-xhdpi/s_msg_pressed.png"
+    },
+    {
+        "merged": "/home/gaomh/git_spaces/02_note/NoteApp/note_/build/intermediates/res/merged/debug/drawable-hdpi_s_voice_.xml.flat",
+        "source": "/home/gaomh/git_spaces/02_note/NoteApp/note_/src/main/res/drawable-hdpi/s_voice_.xml"
+    },
+    {
+        "merged": "/home/gaomh/git_spaces/02_note/NoteApp/note_/build/intermediates/res/merged/debug/drawable-xhdpi_s_voice.png.flat",
+        "source": "/home/gaomh/git_spaces/02_note/NoteApp/note_/src/main/res/drawable-xhdpi/s_voice.png"
+    },
+    {
+        "merged": "/home/gaomh/git_spaces/02_note/NoteApp/note_/build/intermediates/res/merged/debug/drawable-hdpi_taping_circle.png.flat",
+        "source": "/home/gaomh/git_spaces/02_note/NoteApp/note_/src/main/res/drawable-hdpi/taping_circle.png"
+    },
+    {
+        "merged": "/home/gaomh/git_spaces/02_note/NoteApp/note_/build/intermediates/res/merged/debug/drawable_button_bg_pressed.png.flat",
+        "source": "/home/gaomh/git_spaces/02_note/NoteApp/note_/src/main/res/drawable/button_bg_pressed.png"
+    },
+    {
+        "merged": "/home/gaomh/git_spaces/02_note/NoteApp/note_/build/intermediates/res/merged/debug/drawable-xhdpi_setting.png.flat",
+        "source": "/home/gaomh/git_spaces/02_note/NoteApp/note_/src/main/res/drawable-xhdpi/setting.png"
+    },
+    {
+        "merged": "/home/gaomh/git_spaces/02_note/NoteApp/note_/build/intermediates/res/merged/debug/drawable_tip_bg.9.png.flat",
+        "source": "/home/gaomh/git_spaces/02_note/NoteApp/note_/src/main/res/drawable/tip_bg.9.png"
+    },
+    {
+        "merged": "/home/gaomh/git_spaces/02_note/NoteApp/note_/build/intermediates/res/merged/debug/drawable_setting_selection3_bg.9.png.flat",
+        "source": "/home/gaomh/git_spaces/02_note/NoteApp/note_/src/main/res/drawable/setting_selection3_bg.9.png"
+    },
+    {
+        "merged": "/home/gaomh/git_spaces/02_note/NoteApp/note_/build/intermediates/res/merged/debug/drawable-xhdpi_bottom_feature_bg.9.png.flat",
+        "source": "/home/gaomh/git_spaces/02_note/NoteApp/note_/src/main/res/drawable-xhdpi/bottom_feature_bg.9.png"
+    },
+    {
+        "merged": "/home/gaomh/git_spaces/02_note/NoteApp/note_/build/intermediates/res/merged/debug/drawable-xxhdpi_logo.png.flat",
+        "source": "/home/gaomh/git_spaces/02_note/NoteApp/note_/src/main/res/drawable-xxhdpi/logo.png"
+    },
+    {
+        "merged": "/home/gaomh/git_spaces/02_note/NoteApp/note_/build/intermediates/res/merged/debug/drawable_taping.png.flat",
+        "source": "/home/gaomh/git_spaces/02_note/NoteApp/note_/src/main/res/drawable/taping.png"
+    },
+    {
+        "merged": "/home/gaomh/git_spaces/02_note/NoteApp/note_/build/intermediates/res/merged/debug/drawable-xhdpi_yingyongtuijian_icon_3.png.flat",
+        "source": "/home/gaomh/git_spaces/02_note/NoteApp/note_/src/main/res/drawable-xhdpi/yingyongtuijian_icon_3.png"
+    },
+    {
+        "merged": "/home/gaomh/git_spaces/02_note/NoteApp/note_/build/intermediates/res/merged/debug/drawable-hdpi_keyboard_pressed.png.flat",
+        "source": "/home/gaomh/git_spaces/02_note/NoteApp/note_/src/main/res/drawable-hdpi/keyboard_pressed.png"
+    },
+    {
+        "merged": "/home/gaomh/git_spaces/02_note/NoteApp/note_/build/intermediates/res/merged/debug/drawable_s_youdao_pressed.png.flat",
+        "source": "/home/gaomh/git_spaces/02_note/NoteApp/note_/src/main/res/drawable/s_youdao_pressed.png"
+    },
+    {
+        "merged": "/home/gaomh/git_spaces/02_note/NoteApp/note_/build/intermediates/res/merged/debug/drawable-xhdpi_s_mail_pressed.png.flat",
+        "source": "/home/gaomh/git_spaces/02_note/NoteApp/note_/src/main/res/drawable-xhdpi/s_mail_pressed.png"
+    },
+    {
+        "merged": "/home/gaomh/git_spaces/02_note/NoteApp/note_/build/intermediates/res/merged/debug/drawable-xhdpi_taping_circle.png.flat",
+        "source": "/home/gaomh/git_spaces/02_note/NoteApp/note_/src/main/res/drawable-xhdpi/taping_circle.png"
+    },
+    {
+        "merged": "/home/gaomh/git_spaces/02_note/NoteApp/note_/build/intermediates/res/merged/debug/anim_push_bottom_in.xml.flat",
+        "source": "/home/gaomh/git_spaces/02_note/NoteApp/note_/src/main/res/anim/push_bottom_in.xml"
+    },
+    {
+        "merged": "/home/gaomh/git_spaces/02_note/NoteApp/note_/build/intermediates/res/merged/debug/drawable_setting_bg_selector.xml.flat",
+        "source": "/home/gaomh/git_spaces/02_note/NoteApp/note_/src/main/res/drawable/setting_bg_selector.xml"
+    },
+    {
+        "merged": "/home/gaomh/git_spaces/02_note/NoteApp/note_/build/intermediates/res/merged/debug/drawable-hdpi_s_voice.png.flat",
+        "source": "/home/gaomh/git_spaces/02_note/NoteApp/note_/src/main/res/drawable-hdpi/s_voice.png"
+    },
+    {
+        "merged": "/home/gaomh/git_spaces/02_note/NoteApp/note_/build/intermediates/res/merged/debug/drawable-xhdpi_yijianfankui_logo.png.flat",
+        "source": "/home/gaomh/git_spaces/02_note/NoteApp/note_/src/main/res/drawable-xhdpi/yijianfankui_logo.png"
+    },
+    {
+        "merged": "/home/gaomh/git_spaces/02_note/NoteApp/note_/build/intermediates/res/merged/debug/drawable_s_msg_.xml.flat",
+        "source": "/home/gaomh/git_spaces/02_note/NoteApp/note_/src/main/res/drawable/s_msg_.xml"
+    },
+    {
+        "merged": "/home/gaomh/git_spaces/02_note/NoteApp/note_/build/intermediates/res/merged/debug/layout_activity_main.xml.flat",
+        "source": "/home/gaomh/git_spaces/02_note/NoteApp/note_/src/main/res/layout/activity_main.xml"
+    },
+    {
+        "merged": "/home/gaomh/git_spaces/02_note/NoteApp/note_/build/intermediates/res/merged/debug/drawable-xhdpi_setting_selection3_bg.9.png.flat",
+        "source": "/home/gaomh/git_spaces/02_note/NoteApp/note_/src/main/res/drawable-xhdpi/setting_selection3_bg.9.png"
+    },
+    {
+        "merged": "/home/gaomh/git_spaces/02_note/NoteApp/note_/build/intermediates/res/merged/debug/drawable-xhdpi_e_jiajie.png.flat",
+        "source": "/home/gaomh/git_spaces/02_note/NoteApp/note_/src/main/res/drawable-xhdpi/e_jiajie.png"
+    },
+    {
+        "merged": "/home/gaomh/git_spaces/02_note/NoteApp/note_/build/intermediates/res/merged/debug/drawable-xhdpi_yinxiang_logo.png.flat",
+        "source": "/home/gaomh/git_spaces/02_note/NoteApp/note_/src/main/res/drawable-xhdpi/yinxiang_logo.png"
+    },
+    {
+        "merged": "/home/gaomh/git_spaces/02_note/NoteApp/note_/build/intermediates/res/merged/debug/layout_evernote_confirm_dialog.xml.flat",
+        "source": "/home/gaomh/git_spaces/02_note/NoteApp/note_/src/main/res/layout/evernote_confirm_dialog.xml"
+    },
+    {
+        "merged": "/home/gaomh/git_spaces/02_note/NoteApp/note_/build/intermediates/res/merged/debug/drawable-hdpi_yingyongtuijian_icon_6.png.flat",
+        "source": "/home/gaomh/git_spaces/02_note/NoteApp/note_/src/main/res/drawable-hdpi/yingyongtuijian_icon_6.png"
+    },
+    {
+        "merged": "/home/gaomh/git_spaces/02_note/NoteApp/note_/build/intermediates/res/merged/debug/drawable-xhdpi_yingyongtuijian_icon_2.png.flat",
+        "source": "/home/gaomh/git_spaces/02_note/NoteApp/note_/src/main/res/drawable-xhdpi/yingyongtuijian_icon_2.png"
+    },
+    {
+        "merged": "/home/gaomh/git_spaces/02_note/NoteApp/note_/build/intermediates/res/merged/debug/drawable-hdpi_setting.png.flat",
+        "source": "/home/gaomh/git_spaces/02_note/NoteApp/note_/src/main/res/drawable-hdpi/setting.png"
+    },
+    {
+        "merged": "/home/gaomh/git_spaces/02_note/NoteApp/note_/build/intermediates/res/merged/debug/drawable-xhdpi_setting_pressed.png.flat",
+        "source": "/home/gaomh/git_spaces/02_note/NoteApp/note_/src/main/res/drawable-xhdpi/setting_pressed.png"
+    },
+    {
+        "merged": "/home/gaomh/git_spaces/02_note/NoteApp/note_/build/intermediates/res/merged/debug/drawable-xhdpi_copy_forbidden.png.flat",
+        "source": "/home/gaomh/git_spaces/02_note/NoteApp/note_/src/main/res/drawable-xhdpi/copy_forbidden.png"
+    },
+    {
+        "merged": "/home/gaomh/git_spaces/02_note/NoteApp/note_/build/intermediates/res/merged/debug/drawable_s_sina_.xml.flat",
+        "source": "/home/gaomh/git_spaces/02_note/NoteApp/note_/src/main/res/drawable/s_sina_.xml"
+    },
+    {
+        "merged": "/home/gaomh/git_spaces/02_note/NoteApp/note_/build/intermediates/res/merged/debug/drawable_main_tape.9.png.flat",
+        "source": "/home/gaomh/git_spaces/02_note/NoteApp/note_/src/main/res/drawable/main_tape.9.png"
+    },
+    {
+        "merged": "/home/gaomh/git_spaces/02_note/NoteApp/note_/build/intermediates/res/merged/debug/drawable-xhdpi_button_.xml.flat",
+        "source": "/home/gaomh/git_spaces/02_note/NoteApp/note_/src/main/res/drawable-xhdpi/button_.xml"
+    },
+    {
+        "merged": "/home/gaomh/git_spaces/02_note/NoteApp/note_/build/intermediates/res/merged/debug/drawable-xhdpi_fail.png.flat",
+        "source": "/home/gaomh/git_spaces/02_note/NoteApp/note_/src/main/res/drawable-xhdpi/fail.png"
+    },
+    {
+        "merged": "/home/gaomh/git_spaces/02_note/NoteApp/note_/build/intermediates/res/merged/debug/drawable-hdpi_yingyongtuijian_icon_3.png.flat",
+        "source": "/home/gaomh/git_spaces/02_note/NoteApp/note_/src/main/res/drawable-hdpi/yingyongtuijian_icon_3.png"
+    },
+    {
+        "merged": "/home/gaomh/git_spaces/02_note/NoteApp/note_/build/intermediates/res/merged/debug/drawable-xhdpi_del_pressed.png.flat",
+        "source": "/home/gaomh/git_spaces/02_note/NoteApp/note_/src/main/res/drawable-xhdpi/del_pressed.png"
+    },
+    {
+        "merged": "/home/gaomh/git_spaces/02_note/NoteApp/note_/build/intermediates/res/merged/debug/drawable_share_pressed.png.flat",
+        "source": "/home/gaomh/git_spaces/02_note/NoteApp/note_/src/main/res/drawable/share_pressed.png"
+    },
+    {
+        "merged": "/home/gaomh/git_spaces/02_note/NoteApp/note_/build/intermediates/res/merged/debug/drawable-xhdpi_yingyongtuijian_logo.png.flat",
+        "source": "/home/gaomh/git_spaces/02_note/NoteApp/note_/src/main/res/drawable-xhdpi/yingyongtuijian_logo.png"
+    },
+    {
+        "merged": "/home/gaomh/git_spaces/02_note/NoteApp/note_/build/intermediates/res/merged/debug/anim_push_bottom_out.xml.flat",
+        "source": "/home/gaomh/git_spaces/02_note/NoteApp/note_/src/main/res/anim/push_bottom_out.xml"
+    },
+    {
+        "merged": "/home/gaomh/git_spaces/02_note/NoteApp/note_/build/intermediates/res/merged/debug/drawable-xhdpi_tankuang_bg.9.png.flat",
+        "source": "/home/gaomh/git_spaces/02_note/NoteApp/note_/src/main/res/drawable-xhdpi/tankuang_bg.9.png"
+    },
+    {
+        "merged": "/home/gaomh/git_spaces/02_note/NoteApp/note_/build/intermediates/res/merged/debug/drawable_setting_backward.png.flat",
+        "source": "/home/gaomh/git_spaces/02_note/NoteApp/note_/src/main/res/drawable/setting_backward.png"
+    },
+    {
+        "merged": "/home/gaomh/git_spaces/02_note/NoteApp/note_/build/intermediates/res/merged/debug/drawable_setting_.xml.flat",
+        "source": "/home/gaomh/git_spaces/02_note/NoteApp/note_/src/main/res/drawable/setting_.xml"
+    },
+    {
+        "merged": "/home/gaomh/git_spaces/02_note/NoteApp/note_/build/intermediates/res/merged/debug/anim_slid_from_right_in.xml.flat",
+        "source": "/home/gaomh/git_spaces/02_note/NoteApp/note_/src/main/res/anim/slid_from_right_in.xml"
+    },
+    {
+        "merged": "/home/gaomh/git_spaces/02_note/NoteApp/note_/build/intermediates/res/merged/debug/drawable-xhdpi_pic_forbidden.png.flat",
+        "source": "/home/gaomh/git_spaces/02_note/NoteApp/note_/src/main/res/drawable-xhdpi/pic_forbidden.png"
+    },
+    {
+        "merged": "/home/gaomh/git_spaces/02_note/NoteApp/note_/build/intermediates/res/merged/debug/drawable-xxhdpi_ic_launcher.png.flat",
+        "source": "/home/gaomh/git_spaces/02_note/NoteApp/note_/src/main/res/drawable-xxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/home/gaomh/git_spaces/02_note/NoteApp/note_/build/intermediates/res/merged/debug/drawable-hdpi_keyboard.png.flat",
+        "source": "/home/gaomh/git_spaces/02_note/NoteApp/note_/src/main/res/drawable-hdpi/keyboard.png"
+    },
+    {
+        "merged": "/home/gaomh/git_spaces/02_note/NoteApp/note_/build/intermediates/res/merged/debug/drawable-hdpi_pic_pressed.png.flat",
+        "source": "/home/gaomh/git_spaces/02_note/NoteApp/note_/src/main/res/drawable-hdpi/pic_pressed.png"
+    },
+    {
+        "merged": "/home/gaomh/git_spaces/02_note/NoteApp/note_/build/intermediates/res/merged/debug/drawable_s_voice.png.flat",
+        "source": "/home/gaomh/git_spaces/02_note/NoteApp/note_/src/main/res/drawable/s_voice.png"
+    },
+    {
+        "merged": "/home/gaomh/git_spaces/02_note/NoteApp/note_/build/intermediates/res/merged/debug/drawable-xhdpi_del.png.flat",
+        "source": "/home/gaomh/git_spaces/02_note/NoteApp/note_/src/main/res/drawable-xhdpi/del.png"
+    },
+    {
+        "merged": "/home/gaomh/git_spaces/02_note/NoteApp/note_/build/intermediates/res/merged/debug/drawable-hdpi_e_jiajie.png.flat",
+        "source": "/home/gaomh/git_spaces/02_note/NoteApp/note_/src/main/res/drawable-hdpi/e_jiajie.png"
+    },
+    {
+        "merged": "/home/gaomh/git_spaces/02_note/NoteApp/note_/build/intermediates/res/merged/debug/drawable_setting_pressed.png.flat",
+        "source": "/home/gaomh/git_spaces/02_note/NoteApp/note_/src/main/res/drawable/setting_pressed.png"
+    },
+    {
+        "merged": "/home/gaomh/git_spaces/02_note/NoteApp/note_/build/intermediates/res/merged/debug/drawable-xhdpi_yingyongtuijian_download.png.flat",
+        "source": "/home/gaomh/git_spaces/02_note/NoteApp/note_/src/main/res/drawable-xhdpi/yingyongtuijian_download.png"
+    },
+    {
+        "merged": "/home/gaomh/git_spaces/02_note/NoteApp/note_/build/intermediates/res/merged/debug/drawable_setting_forbidden.png.flat",
+        "source": "/home/gaomh/git_spaces/02_note/NoteApp/note_/src/main/res/drawable/setting_forbidden.png"
+    },
+    {
+        "merged": "/home/gaomh/git_spaces/02_note/NoteApp/note_/build/intermediates/res/merged/debug/drawable-hdpi_del_pressed.png.flat",
+        "source": "/home/gaomh/git_spaces/02_note/NoteApp/note_/src/main/res/drawable-hdpi/del_pressed.png"
+    },
+    {
+        "merged": "/home/gaomh/git_spaces/02_note/NoteApp/note_/build/intermediates/res/merged/debug/anim_nochange_out.xml.flat",
+        "source": "/home/gaomh/git_spaces/02_note/NoteApp/note_/src/main/res/anim/nochange_out.xml"
+    },
+    {
+        "merged": "/home/gaomh/git_spaces/02_note/NoteApp/note_/build/intermediates/res/merged/debug/drawable-hdpi_s_copy_pressed.png.flat",
+        "source": "/home/gaomh/git_spaces/02_note/NoteApp/note_/src/main/res/drawable-hdpi/s_copy_pressed.png"
+    },
+    {
+        "merged": "/home/gaomh/git_spaces/02_note/NoteApp/note_/build/intermediates/res/merged/debug/drawable-hdpi_s_friends_pressed.png.flat",
+        "source": "/home/gaomh/git_spaces/02_note/NoteApp/note_/src/main/res/drawable-hdpi/s_friends_pressed.png"
+    },
+    {
+        "merged": "/home/gaomh/git_spaces/02_note/NoteApp/note_/build/intermediates/res/merged/debug/drawable-hdpi_main_tape.9.png.flat",
+        "source": "/home/gaomh/git_spaces/02_note/NoteApp/note_/src/main/res/drawable-hdpi/main_tape.9.png"
+    },
+    {
+        "merged": "/home/gaomh/git_spaces/02_note/NoteApp/note_/build/intermediates/res/merged/debug/drawable_setting_bg3_pressed.9.png.flat",
+        "source": "/home/gaomh/git_spaces/02_note/NoteApp/note_/src/main/res/drawable/setting_bg3_pressed.9.png"
+    },
+    {
+        "merged": "/home/gaomh/git_spaces/02_note/NoteApp/note_/build/intermediates/res/merged/debug/drawable-xhdpi_s_friend_.xml.flat",
+        "source": "/home/gaomh/git_spaces/02_note/NoteApp/note_/src/main/res/drawable-xhdpi/s_friend_.xml"
+    },
+    {
+        "merged": "/home/gaomh/git_spaces/02_note/NoteApp/note_/build/intermediates/res/merged/debug/layout_pop.xml.flat",
+        "source": "/home/gaomh/git_spaces/02_note/NoteApp/note_/src/main/res/layout/pop.xml"
+    },
+    {
+        "merged": "/home/gaomh/git_spaces/02_note/NoteApp/note_/build/intermediates/res/merged/debug/drawable-xhdpi_yingyongtuijian_icon_7.png.flat",
+        "source": "/home/gaomh/git_spaces/02_note/NoteApp/note_/src/main/res/drawable-xhdpi/yingyongtuijian_icon_7.png"
+    },
+    {
+        "merged": "/home/gaomh/git_spaces/02_note/NoteApp/note_/build/intermediates/res/merged/debug/drawable_s_mail_.xml.flat",
+        "source": "/home/gaomh/git_spaces/02_note/NoteApp/note_/src/main/res/drawable/s_mail_.xml"
+    },
+    {
+        "merged": "/home/gaomh/git_spaces/02_note/NoteApp/note_/build/intermediates/res/merged/debug/drawable-xhdpi_introduce_tape_.xml.flat",
+        "source": "/home/gaomh/git_spaces/02_note/NoteApp/note_/src/main/res/drawable-xhdpi/introduce_tape_.xml"
+    },
+    {
+        "merged": "/home/gaomh/git_spaces/02_note/NoteApp/note_/build/intermediates/res/merged/debug/drawable-hdpi_anyview.png.flat",
+        "source": "/home/gaomh/git_spaces/02_note/NoteApp/note_/src/main/res/drawable-hdpi/anyview.png"
+    },
+    {
+        "merged": "/home/gaomh/git_spaces/02_note/NoteApp/note_/build/intermediates/res/merged/debug/drawable_ic_launcher.png.flat",
+        "source": "/home/gaomh/git_spaces/02_note/NoteApp/note_/src/main/res/drawable/ic_launcher.png"
+    },
+    {
+        "merged": "/home/gaomh/git_spaces/02_note/NoteApp/note_/build/intermediates/res/merged/debug/drawable_taping_circle.png.flat",
+        "source": "/home/gaomh/git_spaces/02_note/NoteApp/note_/src/main/res/drawable/taping_circle.png"
+    },
+    {
+        "merged": "/home/gaomh/git_spaces/02_note/NoteApp/note_/build/intermediates/res/merged/debug/drawable-hdpi_share_.xml.flat",
+        "source": "/home/gaomh/git_spaces/02_note/NoteApp/note_/src/main/res/drawable-hdpi/share_.xml"
+    },
+    {
+        "merged": "/home/gaomh/git_spaces/02_note/NoteApp/note_/build/intermediates/res/merged/debug/drawable-hdpi_copy.png.flat",
+        "source": "/home/gaomh/git_spaces/02_note/NoteApp/note_/src/main/res/drawable-hdpi/copy.png"
+    },
+    {
+        "merged": "/home/gaomh/git_spaces/02_note/NoteApp/note_/build/intermediates/res/merged/debug/drawable_s_friend_.xml.flat",
+        "source": "/home/gaomh/git_spaces/02_note/NoteApp/note_/src/main/res/drawable/s_friend_.xml"
+    },
+    {
+        "merged": "/home/gaomh/git_spaces/02_note/NoteApp/note_/build/intermediates/res/merged/debug/drawable-hdpi_jiecao.png.flat",
+        "source": "/home/gaomh/git_spaces/02_note/NoteApp/note_/src/main/res/drawable-hdpi/jiecao.png"
+    },
+    {
+        "merged": "/home/gaomh/git_spaces/02_note/NoteApp/note_/build/intermediates/res/merged/debug/drawable-xhdpi_s_msg.png.flat",
+        "source": "/home/gaomh/git_spaces/02_note/NoteApp/note_/src/main/res/drawable-xhdpi/s_msg.png"
+    },
+    {
+        "merged": "/home/gaomh/git_spaces/02_note/NoteApp/note_/build/intermediates/res/merged/debug/drawable_share_introduction.png.flat",
+        "source": "/home/gaomh/git_spaces/02_note/NoteApp/note_/src/main/res/drawable/share_introduction.png"
+    },
+    {
+        "merged": "/home/gaomh/git_spaces/02_note/NoteApp/note_/build/intermediates/res/merged/debug/drawable-hdpi_taping.png.flat",
+        "source": "/home/gaomh/git_spaces/02_note/NoteApp/note_/src/main/res/drawable-hdpi/taping.png"
+    },
+    {
+        "merged": "/home/gaomh/git_spaces/02_note/NoteApp/note_/build/intermediates/res/merged/debug/drawable-xhdpi_yingyongtuijian_icon_6.png.flat",
+        "source": "/home/gaomh/git_spaces/02_note/NoteApp/note_/src/main/res/drawable-xhdpi/yingyongtuijian_icon_6.png"
+    },
+    {
+        "merged": "/home/gaomh/git_spaces/02_note/NoteApp/note_/build/intermediates/res/merged/debug/drawable-xhdpi_pic.png.flat",
+        "source": "/home/gaomh/git_spaces/02_note/NoteApp/note_/src/main/res/drawable-xhdpi/pic.png"
+    },
+    {
+        "merged": "/home/gaomh/git_spaces/02_note/NoteApp/note_/build/intermediates/res/merged/debug/drawable_del_.xml.flat",
+        "source": "/home/gaomh/git_spaces/02_note/NoteApp/note_/src/main/res/drawable/del_.xml"
+    },
+    {
+        "merged": "/home/gaomh/git_spaces/02_note/NoteApp/note_/build/intermediates/res/merged/debug/drawable-xhdpi_introduce_tape.png.flat",
+        "source": "/home/gaomh/git_spaces/02_note/NoteApp/note_/src/main/res/drawable-xhdpi/introduce_tape.png"
+    },
+    {
+        "merged": "/home/gaomh/git_spaces/02_note/NoteApp/note_/build/intermediates/res/merged/debug/drawable-hdpi_setting_forbidden.png.flat",
+        "source": "/home/gaomh/git_spaces/02_note/NoteApp/note_/src/main/res/drawable-hdpi/setting_forbidden.png"
+    },
+    {
+        "merged": "/home/gaomh/git_spaces/02_note/NoteApp/note_/build/intermediates/res/merged/debug/drawable-hdpi_bugeili.png.flat",
+        "source": "/home/gaomh/git_spaces/02_note/NoteApp/note_/src/main/res/drawable-hdpi/bugeili.png"
+    },
+    {
+        "merged": "/home/gaomh/git_spaces/02_note/NoteApp/note_/build/intermediates/res/merged/debug/drawable-xhdpi_taping.png.flat",
+        "source": "/home/gaomh/git_spaces/02_note/NoteApp/note_/src/main/res/drawable-xhdpi/taping.png"
+    },
+    {
+        "merged": "/home/gaomh/git_spaces/02_note/NoteApp/note_/build/intermediates/res/merged/debug/drawable_s_friends_pressed.png.flat",
+        "source": "/home/gaomh/git_spaces/02_note/NoteApp/note_/src/main/res/drawable/s_friends_pressed.png"
+    },
+    {
+        "merged": "/home/gaomh/git_spaces/02_note/NoteApp/note_/build/intermediates/res/merged/debug/drawable-xhdpi_setting_forbidden.png.flat",
+        "source": "/home/gaomh/git_spaces/02_note/NoteApp/note_/src/main/res/drawable-xhdpi/setting_forbidden.png"
+    },
+    {
+        "merged": "/home/gaomh/git_spaces/02_note/NoteApp/note_/build/intermediates/res/merged/debug/anim_slide_from_left_out.xml.flat",
+        "source": "/home/gaomh/git_spaces/02_note/NoteApp/note_/src/main/res/anim/slide_from_left_out.xml"
+    },
+    {
+        "merged": "/home/gaomh/git_spaces/02_note/NoteApp/note_/build/intermediates/res/merged/debug/drawable-hdpi_yinxiang_logo.png.flat",
+        "source": "/home/gaomh/git_spaces/02_note/NoteApp/note_/src/main/res/drawable-hdpi/yinxiang_logo.png"
+    },
+    {
+        "merged": "/home/gaomh/git_spaces/02_note/NoteApp/note_/build/intermediates/res/merged/debug/drawable-xhdpi_icon_aboutus.png.flat",
+        "source": "/home/gaomh/git_spaces/02_note/NoteApp/note_/src/main/res/drawable-xhdpi/icon_aboutus.png"
+    },
+    {
+        "merged": "/home/gaomh/git_spaces/02_note/NoteApp/note_/build/intermediates/res/merged/debug/layout_recommand.xml.flat",
+        "source": "/home/gaomh/git_spaces/02_note/NoteApp/note_/src/main/res/layout/recommand.xml"
+    },
+    {
+        "merged": "/home/gaomh/git_spaces/02_note/NoteApp/note_/build/intermediates/res/merged/debug/drawable_button_feedback.xml.flat",
+        "source": "/home/gaomh/git_spaces/02_note/NoteApp/note_/src/main/res/drawable/button_feedback.xml"
+    },
+    {
+        "merged": "/home/gaomh/git_spaces/02_note/NoteApp/note_/build/intermediates/res/merged/debug/drawable_share_forbidden.png.flat",
+        "source": "/home/gaomh/git_spaces/02_note/NoteApp/note_/src/main/res/drawable/share_forbidden.png"
+    },
+    {
+        "merged": "/home/gaomh/git_spaces/02_note/NoteApp/note_/build/intermediates/res/merged/debug/drawable-hdpi_s_msg_.xml.flat",
+        "source": "/home/gaomh/git_spaces/02_note/NoteApp/note_/src/main/res/drawable-hdpi/s_msg_.xml"
+    },
+    {
+        "merged": "/home/gaomh/git_spaces/02_note/NoteApp/note_/build/intermediates/res/merged/debug/drawable-hdpi_s_mail_.xml.flat",
+        "source": "/home/gaomh/git_spaces/02_note/NoteApp/note_/src/main/res/drawable-hdpi/s_mail_.xml"
+    },
+    {
+        "merged": "/home/gaomh/git_spaces/02_note/NoteApp/note_/build/intermediates/res/merged/debug/drawable_introduce_tape_.xml.flat",
+        "source": "/home/gaomh/git_spaces/02_note/NoteApp/note_/src/main/res/drawable/introduce_tape_.xml"
+    },
+    {
+        "merged": "/home/gaomh/git_spaces/02_note/NoteApp/note_/build/intermediates/res/merged/debug/drawable_pic.png.flat",
+        "source": "/home/gaomh/git_spaces/02_note/NoteApp/note_/src/main/res/drawable/pic.png"
+    },
+    {
+        "merged": "/home/gaomh/git_spaces/02_note/NoteApp/note_/build/intermediates/res/merged/debug/drawable-hdpi_s_voice_pressed.png.flat",
+        "source": "/home/gaomh/git_spaces/02_note/NoteApp/note_/src/main/res/drawable-hdpi/s_voice_pressed.png"
+    },
+    {
+        "merged": "/home/gaomh/git_spaces/02_note/NoteApp/note_/build/intermediates/res/merged/debug/drawable-hdpi_s_elephent.png.flat",
+        "source": "/home/gaomh/git_spaces/02_note/NoteApp/note_/src/main/res/drawable-hdpi/s_elephent.png"
+    },
+    {
+        "merged": "/home/gaomh/git_spaces/02_note/NoteApp/note_/build/intermediates/res/merged/debug/drawable-xhdpi_introduce_tape_pressed.png.flat",
+        "source": "/home/gaomh/git_spaces/02_note/NoteApp/note_/src/main/res/drawable-xhdpi/introduce_tape_pressed.png"
+    },
+    {
+        "merged": "/home/gaomh/git_spaces/02_note/NoteApp/note_/build/intermediates/res/merged/debug/drawable-xhdpi_s_friends_pressed.png.flat",
+        "source": "/home/gaomh/git_spaces/02_note/NoteApp/note_/src/main/res/drawable-xhdpi/s_friends_pressed.png"
+    },
+    {
+        "merged": "/home/gaomh/git_spaces/02_note/NoteApp/note_/build/intermediates/res/merged/debug/drawable-xhdpi_keyboard_pressed.png.flat",
+        "source": "/home/gaomh/git_spaces/02_note/NoteApp/note_/src/main/res/drawable-xhdpi/keyboard_pressed.png"
+    },
+    {
+        "merged": "/home/gaomh/git_spaces/02_note/NoteApp/note_/build/intermediates/res/merged/debug/drawable-xhdpi_tip_bg.9.png.flat",
+        "source": "/home/gaomh/git_spaces/02_note/NoteApp/note_/src/main/res/drawable-xhdpi/tip_bg.9.png"
+    },
+    {
+        "merged": "/home/gaomh/git_spaces/02_note/NoteApp/note_/build/intermediates/res/merged/debug/drawable-hdpi_icon_aboutus.png.flat",
+        "source": "/home/gaomh/git_spaces/02_note/NoteApp/note_/src/main/res/drawable-hdpi/icon_aboutus.png"
+    },
+    {
+        "merged": "/home/gaomh/git_spaces/02_note/NoteApp/note_/build/intermediates/res/merged/debug/drawable_s_elephent_.xml.flat",
+        "source": "/home/gaomh/git_spaces/02_note/NoteApp/note_/src/main/res/drawable/s_elephent_.xml"
+    },
+    {
+        "merged": "/home/gaomh/git_spaces/02_note/NoteApp/note_/build/intermediates/res/merged/debug/drawable-xhdpi_copy_pressed.png.flat",
+        "source": "/home/gaomh/git_spaces/02_note/NoteApp/note_/src/main/res/drawable-xhdpi/copy_pressed.png"
+    },
+    {
+        "merged": "/home/gaomh/git_spaces/02_note/NoteApp/note_/build/intermediates/res/merged/debug/drawable_keyboard_pressed.png.flat",
+        "source": "/home/gaomh/git_spaces/02_note/NoteApp/note_/src/main/res/drawable/keyboard_pressed.png"
+    },
+    {
+        "merged": "/home/gaomh/git_spaces/02_note/NoteApp/note_/build/intermediates/res/merged/debug/drawable_pic_pressed.png.flat",
+        "source": "/home/gaomh/git_spaces/02_note/NoteApp/note_/src/main/res/drawable/pic_pressed.png"
+    },
+    {
+        "merged": "/home/gaomh/git_spaces/02_note/NoteApp/note_/build/intermediates/res/merged/debug/drawable-hdpi_del_forbidden.png.flat",
+        "source": "/home/gaomh/git_spaces/02_note/NoteApp/note_/src/main/res/drawable-hdpi/del_forbidden.png"
+    },
+    {
+        "merged": "/home/gaomh/git_spaces/02_note/NoteApp/note_/build/intermediates/res/merged/debug/drawable-hdpi_share_pressed.png.flat",
+        "source": "/home/gaomh/git_spaces/02_note/NoteApp/note_/src/main/res/drawable-hdpi/share_pressed.png"
+    },
+    {
+        "merged": "/home/gaomh/git_spaces/02_note/NoteApp/note_/build/intermediates/res/merged/debug/drawable-xhdpi_share_.xml.flat",
+        "source": "/home/gaomh/git_spaces/02_note/NoteApp/note_/src/main/res/drawable-xhdpi/share_.xml"
+    },
+    {
+        "merged": "/home/gaomh/git_spaces/02_note/NoteApp/note_/build/intermediates/res/merged/debug/layout_feedback.xml.flat",
+        "source": "/home/gaomh/git_spaces/02_note/NoteApp/note_/src/main/res/layout/feedback.xml"
+    },
+    {
+        "merged": "/home/gaomh/git_spaces/02_note/NoteApp/note_/build/intermediates/res/merged/debug/drawable-xhdpi_pic_pressed.png.flat",
+        "source": "/home/gaomh/git_spaces/02_note/NoteApp/note_/src/main/res/drawable-xhdpi/pic_pressed.png"
+    },
+    {
+        "merged": "/home/gaomh/git_spaces/02_note/NoteApp/note_/build/intermediates/res/merged/debug/drawable-hdpi_pic.png.flat",
+        "source": "/home/gaomh/git_spaces/02_note/NoteApp/note_/src/main/res/drawable-hdpi/pic.png"
+    },
+    {
+        "merged": "/home/gaomh/git_spaces/02_note/NoteApp/note_/build/intermediates/res/merged/debug/drawable-hdpi_s_elephent_pressed.png.flat",
+        "source": "/home/gaomh/git_spaces/02_note/NoteApp/note_/src/main/res/drawable-hdpi/s_elephent_pressed.png"
+    },
+    {
+        "merged": "/home/gaomh/git_spaces/02_note/NoteApp/note_/build/intermediates/res/merged/debug/drawable-xhdpi_yingyongtuijian_icon_1.png.flat",
+        "source": "/home/gaomh/git_spaces/02_note/NoteApp/note_/src/main/res/drawable-xhdpi/yingyongtuijian_icon_1.png"
+    },
+    {
+        "merged": "/home/gaomh/git_spaces/02_note/NoteApp/note_/build/intermediates/res/merged/debug/drawable_setting_forward.png.flat",
+        "source": "/home/gaomh/git_spaces/02_note/NoteApp/note_/src/main/res/drawable/setting_forward.png"
+    },
+    {
+        "merged": "/home/gaomh/git_spaces/02_note/NoteApp/note_/build/intermediates/res/merged/debug/drawable-hdpi_s_mail_pressed.png.flat",
+        "source": "/home/gaomh/git_spaces/02_note/NoteApp/note_/src/main/res/drawable-hdpi/s_mail_pressed.png"
+    },
+    {
+        "merged": "/home/gaomh/git_spaces/02_note/NoteApp/note_/build/intermediates/res/merged/debug/drawable-xhdpi_setting_.xml.flat",
+        "source": "/home/gaomh/git_spaces/02_note/NoteApp/note_/src/main/res/drawable-xhdpi/setting_.xml"
+    },
+    {
+        "merged": "/home/gaomh/git_spaces/02_note/NoteApp/note_/build/intermediates/res/merged/debug/drawable-xhdpi_share_pressed.png.flat",
+        "source": "/home/gaomh/git_spaces/02_note/NoteApp/note_/src/main/res/drawable-xhdpi/share_pressed.png"
+    },
+    {
+        "merged": "/home/gaomh/git_spaces/02_note/NoteApp/note_/build/intermediates/res/merged/debug/layout_about_us.xml.flat",
+        "source": "/home/gaomh/git_spaces/02_note/NoteApp/note_/src/main/res/layout/about_us.xml"
+    },
+    {
+        "merged": "/home/gaomh/git_spaces/02_note/NoteApp/note_/build/intermediates/res/merged/debug/drawable-hdpi_sina_logo.png.flat",
+        "source": "/home/gaomh/git_spaces/02_note/NoteApp/note_/src/main/res/drawable-hdpi/sina_logo.png"
+    },
+    {
+        "merged": "/home/gaomh/git_spaces/02_note/NoteApp/note_/build/intermediates/res/merged/debug/drawable_s_voice_.xml.flat",
+        "source": "/home/gaomh/git_spaces/02_note/NoteApp/note_/src/main/res/drawable/s_voice_.xml"
+    },
+    {
+        "merged": "/home/gaomh/git_spaces/02_note/NoteApp/note_/build/intermediates/res/merged/debug/drawable-hdpi_copy_pressed.png.flat",
+        "source": "/home/gaomh/git_spaces/02_note/NoteApp/note_/src/main/res/drawable-hdpi/copy_pressed.png"
+    },
+    {
+        "merged": "/home/gaomh/git_spaces/02_note/NoteApp/note_/build/intermediates/res/merged/debug/drawable_yinxiang_logo.png.flat",
+        "source": "/home/gaomh/git_spaces/02_note/NoteApp/note_/src/main/res/drawable/yinxiang_logo.png"
+    },
+    {
+        "merged": "/home/gaomh/git_spaces/02_note/NoteApp/note_/build/intermediates/res/merged/debug/drawable_share_.xml.flat",
+        "source": "/home/gaomh/git_spaces/02_note/NoteApp/note_/src/main/res/drawable/share_.xml"
+    },
+    {
+        "merged": "/home/gaomh/git_spaces/02_note/NoteApp/note_/build/intermediates/res/merged/debug/drawable-hdpi_share_introduction.9.png.flat",
+        "source": "/home/gaomh/git_spaces/02_note/NoteApp/note_/src/main/res/drawable-hdpi/share_introduction.9.png"
+    },
+    {
+        "merged": "/home/gaomh/git_spaces/02_note/NoteApp/note_/build/intermediates/res/merged/debug/layout_splash.xml.flat",
+        "source": "/home/gaomh/git_spaces/02_note/NoteApp/note_/src/main/res/layout/splash.xml"
+    },
+    {
+        "merged": "/home/gaomh/git_spaces/02_note/NoteApp/note_/build/intermediates/res/merged/debug/layout_item.xml.flat",
+        "source": "/home/gaomh/git_spaces/02_note/NoteApp/note_/src/main/res/layout/item.xml"
+    },
+    {
+        "merged": "/home/gaomh/git_spaces/02_note/NoteApp/note_/build/intermediates/res/merged/debug/layout_recommand_item.xml.flat",
+        "source": "/home/gaomh/git_spaces/02_note/NoteApp/note_/src/main/res/layout/recommand_item.xml"
+    },
+    {
+        "merged": "/home/gaomh/git_spaces/02_note/NoteApp/note_/build/intermediates/res/merged/debug/drawable-xhdpi_s_msg_.xml.flat",
+        "source": "/home/gaomh/git_spaces/02_note/NoteApp/note_/src/main/res/drawable-xhdpi/s_msg_.xml"
+    },
+    {
+        "merged": "/home/gaomh/git_spaces/02_note/NoteApp/note_/build/intermediates/res/merged/debug/drawable_s_copy.png.flat",
+        "source": "/home/gaomh/git_spaces/02_note/NoteApp/note_/src/main/res/drawable/s_copy.png"
+    },
+    {
+        "merged": "/home/gaomh/git_spaces/02_note/NoteApp/note_/build/intermediates/res/merged/debug/drawable-xhdpi_s_elephent_.xml.flat",
+        "source": "/home/gaomh/git_spaces/02_note/NoteApp/note_/src/main/res/drawable-xhdpi/s_elephent_.xml"
+    },
+    {
+        "merged": "/home/gaomh/git_spaces/02_note/NoteApp/note_/build/intermediates/res/merged/debug/drawable-hdpi_setting_backward.png.flat",
+        "source": "/home/gaomh/git_spaces/02_note/NoteApp/note_/src/main/res/drawable-hdpi/setting_backward.png"
+    },
+    {
+        "merged": "/home/gaomh/git_spaces/02_note/NoteApp/note_/build/intermediates/res/merged/debug/drawable-xhdpi_sina_logo.png.flat",
+        "source": "/home/gaomh/git_spaces/02_note/NoteApp/note_/src/main/res/drawable-xhdpi/sina_logo.png"
+    },
+    {
+        "merged": "/home/gaomh/git_spaces/02_note/NoteApp/note_/build/intermediates/res/merged/debug/drawable_s_msg.png.flat",
+        "source": "/home/gaomh/git_spaces/02_note/NoteApp/note_/src/main/res/drawable/s_msg.png"
+    },
+    {
+        "merged": "/home/gaomh/git_spaces/02_note/NoteApp/note_/build/intermediates/res/merged/debug/drawable_pic_forbidden.png.flat",
+        "source": "/home/gaomh/git_spaces/02_note/NoteApp/note_/src/main/res/drawable/pic_forbidden.png"
+    },
+    {
+        "merged": "/home/gaomh/git_spaces/02_note/NoteApp/note_/build/intermediates/res/merged/debug/drawable_s_friends.png.flat",
+        "source": "/home/gaomh/git_spaces/02_note/NoteApp/note_/src/main/res/drawable/s_friends.png"
+    },
+    {
+        "merged": "/home/gaomh/git_spaces/02_note/NoteApp/note_/build/intermediates/res/merged/debug/drawable_setting_next.xml.flat",
+        "source": "/home/gaomh/git_spaces/02_note/NoteApp/note_/src/main/res/drawable/setting_next.xml"
+    },
+    {
+        "merged": "/home/gaomh/git_spaces/02_note/NoteApp/note_/build/intermediates/res/merged/debug/drawable-xhdpi_s_elephent.png.flat",
+        "source": "/home/gaomh/git_spaces/02_note/NoteApp/note_/src/main/res/drawable-xhdpi/s_elephent.png"
+    },
+    {
+        "merged": "/home/gaomh/git_spaces/02_note/NoteApp/note_/build/intermediates/res/merged/debug/drawable-hdpi_setting_next.xml.flat",
+        "source": "/home/gaomh/git_spaces/02_note/NoteApp/note_/src/main/res/drawable-hdpi/setting_next.xml"
+    },
+    {
+        "merged": "/home/gaomh/git_spaces/02_note/NoteApp/note_/build/intermediates/res/merged/debug/drawable-hdpi_s_elephent_.xml.flat",
+        "source": "/home/gaomh/git_spaces/02_note/NoteApp/note_/src/main/res/drawable-hdpi/s_elephent_.xml"
+    },
+    {
+        "merged": "/home/gaomh/git_spaces/02_note/NoteApp/note_/build/intermediates/res/merged/debug/drawable-xhdpi_button_bg_pressed.9.png.flat",
+        "source": "/home/gaomh/git_spaces/02_note/NoteApp/note_/src/main/res/drawable-xhdpi/button_bg_pressed.9.png"
+    },
+    {
+        "merged": "/home/gaomh/git_spaces/02_note/NoteApp/note_/build/intermediates/res/merged/debug/drawable_success.png.flat",
+        "source": "/home/gaomh/git_spaces/02_note/NoteApp/note_/src/main/res/drawable/success.png"
+    },
+    {
+        "merged": "/home/gaomh/git_spaces/02_note/NoteApp/note_/build/intermediates/res/merged/debug/drawable_s_sina_pressed.png.flat",
+        "source": "/home/gaomh/git_spaces/02_note/NoteApp/note_/src/main/res/drawable/s_sina_pressed.png"
+    },
+    {
+        "merged": "/home/gaomh/git_spaces/02_note/NoteApp/note_/build/intermediates/res/merged/debug/drawable_s_copy_.xml.flat",
+        "source": "/home/gaomh/git_spaces/02_note/NoteApp/note_/src/main/res/drawable/s_copy_.xml"
+    },
+    {
+        "merged": "/home/gaomh/git_spaces/02_note/NoteApp/note_/build/intermediates/res/merged/debug/drawable_yijianfankui.xml.flat",
+        "source": "/home/gaomh/git_spaces/02_note/NoteApp/note_/src/main/res/drawable/yijianfankui.xml"
+    },
+    {
+        "merged": "/home/gaomh/git_spaces/02_note/NoteApp/note_/build/intermediates/res/merged/debug/drawable_keyboard_forbidden.png.flat",
+        "source": "/home/gaomh/git_spaces/02_note/NoteApp/note_/src/main/res/drawable/keyboard_forbidden.png"
+    },
+    {
+        "merged": "/home/gaomh/git_spaces/02_note/NoteApp/note_/build/intermediates/res/merged/debug/drawable_tankuang_bg.9.png.flat",
+        "source": "/home/gaomh/git_spaces/02_note/NoteApp/note_/src/main/res/drawable/tankuang_bg.9.png"
+    },
+    {
+        "merged": "/home/gaomh/git_spaces/02_note/NoteApp/note_/build/intermediates/res/merged/debug/drawable-hdpi_yingyongtuijian_logo.png.flat",
+        "source": "/home/gaomh/git_spaces/02_note/NoteApp/note_/src/main/res/drawable-hdpi/yingyongtuijian_logo.png"
+    },
+    {
+        "merged": "/home/gaomh/git_spaces/02_note/NoteApp/note_/build/intermediates/res/merged/debug/drawable-hdpi_aboutus_logo.png.flat",
+        "source": "/home/gaomh/git_spaces/02_note/NoteApp/note_/src/main/res/drawable-hdpi/aboutus_logo.png"
+    },
+    {
+        "merged": "/home/gaomh/git_spaces/02_note/NoteApp/note_/build/intermediates/res/merged/debug/drawable-hdpi_yingyongtuijian_download.png.flat",
+        "source": "/home/gaomh/git_spaces/02_note/NoteApp/note_/src/main/res/drawable-hdpi/yingyongtuijian_download.png"
+    },
+    {
+        "merged": "/home/gaomh/git_spaces/02_note/NoteApp/note_/build/intermediates/res/merged/debug/drawable-xhdpi_s_copy_.xml.flat",
+        "source": "/home/gaomh/git_spaces/02_note/NoteApp/note_/src/main/res/drawable-xhdpi/s_copy_.xml"
+    },
+    {
+        "merged": "/home/gaomh/git_spaces/02_note/NoteApp/note_/build/intermediates/res/merged/debug/drawable_s_sina.png.flat",
+        "source": "/home/gaomh/git_spaces/02_note/NoteApp/note_/src/main/res/drawable/s_sina.png"
+    },
+    {
+        "merged": "/home/gaomh/git_spaces/02_note/NoteApp/note_/build/intermediates/res/merged/debug/drawable-hdpi_pic_.xml.flat",
+        "source": "/home/gaomh/git_spaces/02_note/NoteApp/note_/src/main/res/drawable-hdpi/pic_.xml"
+    },
+    {
+        "merged": "/home/gaomh/git_spaces/02_note/NoteApp/note_/build/intermediates/res/merged/debug/drawable-hdpi_s_msg.png.flat",
+        "source": "/home/gaomh/git_spaces/02_note/NoteApp/note_/src/main/res/drawable-hdpi/s_msg.png"
+    },
+    {
+        "merged": "/home/gaomh/git_spaces/02_note/NoteApp/note_/build/intermediates/res/merged/debug/drawable-hdpi_setting_back.png.flat",
+        "source": "/home/gaomh/git_spaces/02_note/NoteApp/note_/src/main/res/drawable-hdpi/setting_back.png"
+    },
+    {
+        "merged": "/home/gaomh/git_spaces/02_note/NoteApp/note_/build/intermediates/res/merged/debug/drawable-hdpi_setting_.xml.flat",
+        "source": "/home/gaomh/git_spaces/02_note/NoteApp/note_/src/main/res/drawable-hdpi/setting_.xml"
+    },
+    {
+        "merged": "/home/gaomh/git_spaces/02_note/NoteApp/note_/build/intermediates/res/merged/debug/drawable-xhdpi_jiecao.png.flat",
+        "source": "/home/gaomh/git_spaces/02_note/NoteApp/note_/src/main/res/drawable-xhdpi/jiecao.png"
+    },
+    {
+        "merged": "/home/gaomh/git_spaces/02_note/NoteApp/note_/build/intermediates/res/merged/debug/drawable_s_youdao_.xml.flat",
+        "source": "/home/gaomh/git_spaces/02_note/NoteApp/note_/src/main/res/drawable/s_youdao_.xml"
+    },
+    {
+        "merged": "/home/gaomh/git_spaces/02_note/NoteApp/note_/build/intermediates/res/merged/debug/drawable-xhdpi_success.png.flat",
+        "source": "/home/gaomh/git_spaces/02_note/NoteApp/note_/src/main/res/drawable-xhdpi/success.png"
+    },
+    {
+        "merged": "/home/gaomh/git_spaces/02_note/NoteApp/note_/build/intermediates/res/merged/debug/drawable_keyboard.png.flat",
+        "source": "/home/gaomh/git_spaces/02_note/NoteApp/note_/src/main/res/drawable/keyboard.png"
+    },
+    {
+        "merged": "/home/gaomh/git_spaces/02_note/NoteApp/note_/build/intermediates/res/merged/debug/drawable-hdpi_keyboard_forbidden.png.flat",
+        "source": "/home/gaomh/git_spaces/02_note/NoteApp/note_/src/main/res/drawable-hdpi/keyboard_forbidden.png"
+    },
+    {
+        "merged": "/home/gaomh/git_spaces/02_note/NoteApp/note_/build/intermediates/res/merged/debug/drawable_setting_back.png.flat",
+        "source": "/home/gaomh/git_spaces/02_note/NoteApp/note_/src/main/res/drawable/setting_back.png"
+    },
+    {
+        "merged": "/home/gaomh/git_spaces/02_note/NoteApp/note_/build/intermediates/res/merged/debug/drawable_button_send.xml.flat",
+        "source": "/home/gaomh/git_spaces/02_note/NoteApp/note_/src/main/res/drawable/button_send.xml"
+    },
+    {
+        "merged": "/home/gaomh/git_spaces/02_note/NoteApp/note_/build/intermediates/res/merged/debug/drawable_s_mail.png.flat",
+        "source": "/home/gaomh/git_spaces/02_note/NoteApp/note_/src/main/res/drawable/s_mail.png"
+    },
+    {
+        "merged": "/home/gaomh/git_spaces/02_note/NoteApp/note_/build/intermediates/res/merged/debug/drawable-xhdpi_main_tape.9.png.flat",
+        "source": "/home/gaomh/git_spaces/02_note/NoteApp/note_/src/main/res/drawable-xhdpi/main_tape.9.png"
+    },
+    {
+        "merged": "/home/gaomh/git_spaces/02_note/NoteApp/note_/build/intermediates/res/merged/debug/drawable_s_youdao.png.flat",
+        "source": "/home/gaomh/git_spaces/02_note/NoteApp/note_/src/main/res/drawable/s_youdao.png"
+    },
+    {
+        "merged": "/home/gaomh/git_spaces/02_note/NoteApp/note_/build/intermediates/res/merged/debug/drawable-hdpi_s_copy_.xml.flat",
+        "source": "/home/gaomh/git_spaces/02_note/NoteApp/note_/src/main/res/drawable-hdpi/s_copy_.xml"
+    },
+    {
+        "merged": "/home/gaomh/git_spaces/02_note/NoteApp/note_/build/intermediates/res/merged/debug/layout_settings.xml.flat",
+        "source": "/home/gaomh/git_spaces/02_note/NoteApp/note_/src/main/res/layout/settings.xml"
+    },
+    {
+        "merged": "/home/gaomh/git_spaces/02_note/NoteApp/note_/build/intermediates/res/merged/debug/drawable_s_elephent.png.flat",
+        "source": "/home/gaomh/git_spaces/02_note/NoteApp/note_/src/main/res/drawable/s_elephent.png"
+    },
+    {
+        "merged": "/home/gaomh/git_spaces/02_note/NoteApp/note_/build/intermediates/res/merged/debug/drawable_bugeili.png.flat",
+        "source": "/home/gaomh/git_spaces/02_note/NoteApp/note_/src/main/res/drawable/bugeili.png"
+    },
+    {
+        "merged": "/home/gaomh/git_spaces/02_note/NoteApp/note_/build/intermediates/res/merged/debug/drawable-hdpi_success.png.flat",
+        "source": "/home/gaomh/git_spaces/02_note/NoteApp/note_/src/main/res/drawable-hdpi/success.png"
+    },
+    {
+        "merged": "/home/gaomh/git_spaces/02_note/NoteApp/note_/build/intermediates/res/merged/debug/layout_pop_dialog.xml.flat",
+        "source": "/home/gaomh/git_spaces/02_note/NoteApp/note_/src/main/res/layout/pop_dialog.xml"
+    },
+    {
+        "merged": "/home/gaomh/git_spaces/02_note/NoteApp/note_/build/intermediates/res/merged/debug/drawable-xhdpi_setting_backward.png.flat",
+        "source": "/home/gaomh/git_spaces/02_note/NoteApp/note_/src/main/res/drawable-xhdpi/setting_backward.png"
+    },
+    {
+        "merged": "/home/gaomh/git_spaces/02_note/NoteApp/note_/build/intermediates/res/merged/debug/drawable-xhdpi_del_forbidden.png.flat",
+        "source": "/home/gaomh/git_spaces/02_note/NoteApp/note_/src/main/res/drawable-xhdpi/del_forbidden.png"
+    },
+    {
+        "merged": "/home/gaomh/git_spaces/02_note/NoteApp/note_/build/intermediates/res/merged/debug/drawable-xhdpi_youdao_logo.png.flat",
+        "source": "/home/gaomh/git_spaces/02_note/NoteApp/note_/src/main/res/drawable-xhdpi/youdao_logo.png"
+    },
+    {
+        "merged": "/home/gaomh/git_spaces/02_note/NoteApp/note_/build/intermediates/res/merged/debug/drawable-hdpi_s_copy.png.flat",
+        "source": "/home/gaomh/git_spaces/02_note/NoteApp/note_/src/main/res/drawable-hdpi/s_copy.png"
+    },
+    {
+        "merged": "/home/gaomh/git_spaces/02_note/NoteApp/note_/build/intermediates/res/merged/debug/drawable-hdpi_button_.xml.flat",
+        "source": "/home/gaomh/git_spaces/02_note/NoteApp/note_/src/main/res/drawable-hdpi/button_.xml"
+    },
+    {
+        "merged": "/home/gaomh/git_spaces/02_note/NoteApp/note_/build/intermediates/res/merged/debug/drawable_share.png.flat",
+        "source": "/home/gaomh/git_spaces/02_note/NoteApp/note_/src/main/res/drawable/share.png"
+    },
+    {
+        "merged": "/home/gaomh/git_spaces/02_note/NoteApp/note_/build/intermediates/res/merged/debug/drawable_introduce_tape_pressed.png.flat",
+        "source": "/home/gaomh/git_spaces/02_note/NoteApp/note_/src/main/res/drawable/introduce_tape_pressed.png"
+    },
+    {
+        "merged": "/home/gaomh/git_spaces/02_note/NoteApp/note_/build/intermediates/res/merged/debug/drawable-hdpi_splash.png.flat",
+        "source": "/home/gaomh/git_spaces/02_note/NoteApp/note_/src/main/res/drawable-hdpi/splash.png"
+    },
+    {
+        "merged": "/home/gaomh/git_spaces/02_note/NoteApp/note_/build/intermediates/res/merged/debug/drawable-xhdpi_keyboard_forbidden.png.flat",
+        "source": "/home/gaomh/git_spaces/02_note/NoteApp/note_/src/main/res/drawable-xhdpi/keyboard_forbidden.png"
+    },
+    {
+        "merged": "/home/gaomh/git_spaces/02_note/NoteApp/note_/build/intermediates/res/merged/debug/drawable-hdpi_yingyongtuijian_icon_1.png.flat",
+        "source": "/home/gaomh/git_spaces/02_note/NoteApp/note_/src/main/res/drawable-hdpi/yingyongtuijian_icon_1.png"
+    },
+    {
+        "merged": "/home/gaomh/git_spaces/02_note/NoteApp/note_/build/intermediates/res/merged/debug/drawable-hdpi_pic_forbidden.png.flat",
+        "source": "/home/gaomh/git_spaces/02_note/NoteApp/note_/src/main/res/drawable-hdpi/pic_forbidden.png"
+    },
+    {
+        "merged": "/home/gaomh/git_spaces/02_note/NoteApp/note_/build/intermediates/res/merged/debug/drawable-hdpi_yijianfankui_logo.png.flat",
+        "source": "/home/gaomh/git_spaces/02_note/NoteApp/note_/src/main/res/drawable-hdpi/yijianfankui_logo.png"
+    },
+    {
+        "merged": "/home/gaomh/git_spaces/02_note/NoteApp/note_/build/intermediates/res/merged/debug/drawable_pic_.xml.flat",
+        "source": "/home/gaomh/git_spaces/02_note/NoteApp/note_/src/main/res/drawable/pic_.xml"
+    },
+    {
+        "merged": "/home/gaomh/git_spaces/02_note/NoteApp/note_/build/intermediates/res/merged/debug/drawable-xhdpi_splash.9.png.flat",
+        "source": "/home/gaomh/git_spaces/02_note/NoteApp/note_/src/main/res/drawable-xhdpi/splash.9.png"
+    },
+    {
+        "merged": "/home/gaomh/git_spaces/02_note/NoteApp/note_/build/intermediates/res/merged/debug/drawable-xhdpi_share_introduction.9.png.flat",
+        "source": "/home/gaomh/git_spaces/02_note/NoteApp/note_/src/main/res/drawable-xhdpi/share_introduction.9.png"
+    },
+    {
+        "merged": "/home/gaomh/git_spaces/02_note/NoteApp/note_/build/intermediates/res/merged/debug/drawable_button_send_pressed.xml.flat",
+        "source": "/home/gaomh/git_spaces/02_note/NoteApp/note_/src/main/res/drawable/button_send_pressed.xml"
+    },
+    {
+        "merged": "/home/gaomh/git_spaces/02_note/NoteApp/note_/build/intermediates/res/merged/debug/layout_tape2.xml.flat",
+        "source": "/home/gaomh/git_spaces/02_note/NoteApp/note_/src/main/res/layout/tape2.xml"
+    },
+    {
+        "merged": "/home/gaomh/git_spaces/02_note/NoteApp/note_/build/intermediates/res/merged/debug/drawable-hdpi_copy_forbidden.png.flat",
+        "source": "/home/gaomh/git_spaces/02_note/NoteApp/note_/src/main/res/drawable-hdpi/copy_forbidden.png"
+    },
+    {
+        "merged": "/home/gaomh/git_spaces/02_note/NoteApp/note_/build/intermediates/res/merged/debug/drawable-xhdpi_s_voice_pressed.png.flat",
+        "source": "/home/gaomh/git_spaces/02_note/NoteApp/note_/src/main/res/drawable-xhdpi/s_voice_pressed.png"
+    },
+    {
+        "merged": "/home/gaomh/git_spaces/02_note/NoteApp/note_/build/intermediates/res/merged/debug/drawable-hdpi_youdao_logo.png.flat",
+        "source": "/home/gaomh/git_spaces/02_note/NoteApp/note_/src/main/res/drawable-hdpi/youdao_logo.png"
+    },
+    {
+        "merged": "/home/gaomh/git_spaces/02_note/NoteApp/note_/build/intermediates/res/merged/debug/drawable-xhdpi_share_forbidden.png.flat",
+        "source": "/home/gaomh/git_spaces/02_note/NoteApp/note_/src/main/res/drawable-xhdpi/share_forbidden.png"
+    },
+    {
+        "merged": "/home/gaomh/git_spaces/02_note/NoteApp/note_/build/intermediates/res/merged/debug/drawable-hdpi_share_forbidden.png.flat",
+        "source": "/home/gaomh/git_spaces/02_note/NoteApp/note_/src/main/res/drawable-hdpi/share_forbidden.png"
+    },
+    {
+        "merged": "/home/gaomh/git_spaces/02_note/NoteApp/note_/build/intermediates/res/merged/debug/drawable_bottom_feature_bg.9.png.flat",
+        "source": "/home/gaomh/git_spaces/02_note/NoteApp/note_/src/main/res/drawable/bottom_feature_bg.9.png"
+    },
+    {
+        "merged": "/home/gaomh/git_spaces/02_note/NoteApp/note_/build/intermediates/res/merged/debug/drawable-hdpi_share.png.flat",
+        "source": "/home/gaomh/git_spaces/02_note/NoteApp/note_/src/main/res/drawable-hdpi/share.png"
+    },
+    {
+        "merged": "/home/gaomh/git_spaces/02_note/NoteApp/note_/build/intermediates/res/merged/debug/drawable_fail.png.flat",
+        "source": "/home/gaomh/git_spaces/02_note/NoteApp/note_/src/main/res/drawable/fail.png"
+    },
+    {
+        "merged": "/home/gaomh/git_spaces/02_note/NoteApp/note_/build/intermediates/res/merged/debug/drawable-hdpi_yingyongtuijian_icon_2.png.flat",
+        "source": "/home/gaomh/git_spaces/02_note/NoteApp/note_/src/main/res/drawable-hdpi/yingyongtuijian_icon_2.png"
+    },
+    {
+        "merged": "/home/gaomh/git_spaces/02_note/NoteApp/note_/build/intermediates/res/merged/debug/drawable-hdpi_s_mail.png.flat",
+        "source": "/home/gaomh/git_spaces/02_note/NoteApp/note_/src/main/res/drawable-hdpi/s_mail.png"
+    },
+    {
+        "merged": "/home/gaomh/git_spaces/02_note/NoteApp/note_/build/intermediates/res/merged/debug/drawable_button_bg.png.flat",
+        "source": "/home/gaomh/git_spaces/02_note/NoteApp/note_/src/main/res/drawable/button_bg.png"
+    },
+    {
+        "merged": "/home/gaomh/git_spaces/02_note/NoteApp/note_/build/intermediates/res/merged/debug/drawable_button_.xml.flat",
+        "source": "/home/gaomh/git_spaces/02_note/NoteApp/note_/src/main/res/drawable/button_.xml"
+    },
+    {
+        "merged": "/home/gaomh/git_spaces/02_note/NoteApp/note_/build/intermediates/res/merged/debug/drawable-xhdpi_bugeili.png.flat",
+        "source": "/home/gaomh/git_spaces/02_note/NoteApp/note_/src/main/res/drawable-xhdpi/bugeili.png"
+    },
+    {
+        "merged": "/home/gaomh/git_spaces/02_note/NoteApp/note_/build/intermediates/res/merged/debug/drawable_logo.png.flat",
+        "source": "/home/gaomh/git_spaces/02_note/NoteApp/note_/src/main/res/drawable/logo.png"
+    },
+    {
+        "merged": "/home/gaomh/git_spaces/02_note/NoteApp/note_/build/intermediates/res/merged/debug/drawable_tape_copy_.xml.flat",
+        "source": "/home/gaomh/git_spaces/02_note/NoteApp/note_/src/main/res/drawable/tape_copy_.xml"
+    },
+    {
+        "merged": "/home/gaomh/git_spaces/02_note/NoteApp/note_/build/intermediates/res/merged/debug/drawable-xhdpi_s_copy.png.flat",
+        "source": "/home/gaomh/git_spaces/02_note/NoteApp/note_/src/main/res/drawable-xhdpi/s_copy.png"
+    },
+    {
+        "merged": "/home/gaomh/git_spaces/02_note/NoteApp/note_/build/intermediates/res/merged/debug/drawable-xhdpi_button_bg.9.png.flat",
+        "source": "/home/gaomh/git_spaces/02_note/NoteApp/note_/src/main/res/drawable-xhdpi/button_bg.9.png"
+    },
+    {
+        "merged": "/home/gaomh/git_spaces/02_note/NoteApp/note_/build/intermediates/res/merged/debug/drawable-xhdpi_setting_back.png.flat",
+        "source": "/home/gaomh/git_spaces/02_note/NoteApp/note_/src/main/res/drawable-xhdpi/setting_back.png"
+    },
+    {
+        "merged": "/home/gaomh/git_spaces/02_note/NoteApp/note_/build/intermediates/res/merged/debug/drawable-xhdpi_s_voice_.xml.flat",
+        "source": "/home/gaomh/git_spaces/02_note/NoteApp/note_/src/main/res/drawable-xhdpi/s_voice_.xml"
+    },
+    {
+        "merged": "/home/gaomh/git_spaces/02_note/NoteApp/note_/build/intermediates/res/merged/debug/drawable-xhdpi_aboutus_logo.png.flat",
+        "source": "/home/gaomh/git_spaces/02_note/NoteApp/note_/src/main/res/drawable-xhdpi/aboutus_logo.png"
+    },
+    {
+        "merged": "/home/gaomh/git_spaces/02_note/NoteApp/note_/build/intermediates/res/merged/debug/layout_tip_success.xml.flat",
+        "source": "/home/gaomh/git_spaces/02_note/NoteApp/note_/src/main/res/layout/tip_success.xml"
+    },
+    {
+        "merged": "/home/gaomh/git_spaces/02_note/NoteApp/note_/build/intermediates/res/merged/debug/drawable-xhdpi_copy.png.flat",
+        "source": "/home/gaomh/git_spaces/02_note/NoteApp/note_/src/main/res/drawable-xhdpi/copy.png"
+    },
+    {
+        "merged": "/home/gaomh/git_spaces/02_note/NoteApp/note_/build/intermediates/res/merged/debug/drawable_setting_backward_.xml.flat",
+        "source": "/home/gaomh/git_spaces/02_note/NoteApp/note_/src/main/res/drawable/setting_backward_.xml"
+    },
+    {
+        "merged": "/home/gaomh/git_spaces/02_note/NoteApp/note_/build/intermediates/res/merged/debug/drawable-hdpi_setting_forward.png.flat",
+        "source": "/home/gaomh/git_spaces/02_note/NoteApp/note_/src/main/res/drawable-hdpi/setting_forward.png"
+    },
+    {
+        "merged": "/home/gaomh/git_spaces/02_note/NoteApp/note_/build/intermediates/res/merged/debug/drawable-xhdpi_s_mail_.xml.flat",
+        "source": "/home/gaomh/git_spaces/02_note/NoteApp/note_/src/main/res/drawable-xhdpi/s_mail_.xml"
+    },
+    {
+        "merged": "/home/gaomh/git_spaces/02_note/NoteApp/note_/build/intermediates/res/merged/debug/drawable-xhdpi_anyview.png.flat",
+        "source": "/home/gaomh/git_spaces/02_note/NoteApp/note_/src/main/res/drawable-xhdpi/anyview.png"
+    },
+    {
+        "merged": "/home/gaomh/git_spaces/02_note/NoteApp/note_/build/intermediates/res/merged/debug/drawable-hdpi_introduce_tape.png.flat",
+        "source": "/home/gaomh/git_spaces/02_note/NoteApp/note_/src/main/res/drawable-hdpi/introduce_tape.png"
+    },
+    {
+        "merged": "/home/gaomh/git_spaces/02_note/NoteApp/note_/build/intermediates/res/merged/debug/drawable_keyboard_.xml.flat",
+        "source": "/home/gaomh/git_spaces/02_note/NoteApp/note_/src/main/res/drawable/keyboard_.xml"
+    },
+    {
+        "merged": "/home/gaomh/git_spaces/02_note/NoteApp/note_/build/intermediates/res/merged/debug/drawable-xhdpi_keyboard.png.flat",
+        "source": "/home/gaomh/git_spaces/02_note/NoteApp/note_/src/main/res/drawable-xhdpi/keyboard.png"
+    },
+    {
+        "merged": "/home/gaomh/git_spaces/02_note/NoteApp/note_/build/intermediates/res/merged/debug/drawable-hdpi_introduce_tape_pressed.png.flat",
+        "source": "/home/gaomh/git_spaces/02_note/NoteApp/note_/src/main/res/drawable-hdpi/introduce_tape_pressed.png"
+    },
+    {
+        "merged": "/home/gaomh/git_spaces/02_note/NoteApp/note_/build/intermediates/res/merged/debug/drawable-xhdpi_s_friends.png.flat",
+        "source": "/home/gaomh/git_spaces/02_note/NoteApp/note_/src/main/res/drawable-xhdpi/s_friends.png"
+    },
+    {
+        "merged": "/home/gaomh/git_spaces/02_note/NoteApp/note_/build/intermediates/res/merged/debug/drawable-xhdpi_s_elephent_pressed.png.flat",
+        "source": "/home/gaomh/git_spaces/02_note/NoteApp/note_/src/main/res/drawable-xhdpi/s_elephent_pressed.png"
+    },
+    {
+        "merged": "/home/gaomh/git_spaces/02_note/NoteApp/note_/build/intermediates/res/merged/debug/drawable-xhdpi_share.png.flat",
+        "source": "/home/gaomh/git_spaces/02_note/NoteApp/note_/src/main/res/drawable-xhdpi/share.png"
+    },
+    {
+        "merged": "/home/gaomh/git_spaces/02_note/NoteApp/note_/build/intermediates/res/merged/debug/drawable-hdpi_setting_pressed.png.flat",
+        "source": "/home/gaomh/git_spaces/02_note/NoteApp/note_/src/main/res/drawable-hdpi/setting_pressed.png"
+    },
+    {
+        "merged": "/home/gaomh/git_spaces/02_note/NoteApp/note_/build/intermediates/res/merged/debug/drawable-hdpi_yingyongtuijian_icon_7.png.flat",
+        "source": "/home/gaomh/git_spaces/02_note/NoteApp/note_/src/main/res/drawable-hdpi/yingyongtuijian_icon_7.png"
+    },
+    {
+        "merged": "/home/gaomh/git_spaces/02_note/NoteApp/note_/build/intermediates/res/merged/debug/drawable-hdpi_s_friend_.xml.flat",
+        "source": "/home/gaomh/git_spaces/02_note/NoteApp/note_/src/main/res/drawable-hdpi/s_friend_.xml"
+    },
+    {
+        "merged": "/home/gaomh/git_spaces/02_note/NoteApp/note_/build/intermediates/res/merged/debug/drawable-xhdpi_s_mail.png.flat",
+        "source": "/home/gaomh/git_spaces/02_note/NoteApp/note_/src/main/res/drawable-xhdpi/s_mail.png"
+    },
+    {
+        "merged": "/home/gaomh/git_spaces/02_note/NoteApp/note_/build/intermediates/res/merged/debug/drawable-hdpi_introduce_tape_.xml.flat",
+        "source": "/home/gaomh/git_spaces/02_note/NoteApp/note_/src/main/res/drawable-hdpi/introduce_tape_.xml"
+    },
+    {
+        "merged": "/home/gaomh/git_spaces/02_note/NoteApp/note_/build/intermediates/res/merged/debug/anim_nochange_in.xml.flat",
+        "source": "/home/gaomh/git_spaces/02_note/NoteApp/note_/src/main/res/anim/nochange_in.xml"
+    },
+    {
+        "merged": "/home/gaomh/git_spaces/02_note/NoteApp/note_/build/intermediates/res/merged/debug/layout_introdue.xml.flat",
+        "source": "/home/gaomh/git_spaces/02_note/NoteApp/note_/src/main/res/layout/introdue.xml"
+    },
+    {
+        "merged": "/home/gaomh/git_spaces/02_note/NoteApp/note_/build/intermediates/res/merged/debug/drawable-hdpi_fail.png.flat",
+        "source": "/home/gaomh/git_spaces/02_note/NoteApp/note_/src/main/res/drawable-hdpi/fail.png"
+    }
+]
